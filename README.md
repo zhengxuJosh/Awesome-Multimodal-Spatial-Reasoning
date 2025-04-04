@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Awesome RAG in Computer Vision</h1>
+  <h1>Awesome Spatial Reasoning with MVLMs</h1>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"/></a>
 </div>
 
