@@ -1,1 +1,3 @@
-
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
+|---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| Thinking in space: How multimodal large language models see, remember, and recall spaces          | Yang *et al.*   | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.14171)  | [code](https://github.com/vision-x-nyu/thinking-in-space) |       
