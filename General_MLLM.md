@@ -18,5 +18,6 @@
 | MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse | Pan *et al.* | [paper](https://arxiv.org/pdf/2503.18470) | [code](https://github.com/PzySeere/MetaSpatial) | 
 | ***Explainability*** |||||
 | Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models | Rajabi *et al.* | ICLR 2024 Workshop | [paper](https://arxiv.org/pdf/2308.09778) | / |
+| Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | Qi *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17349) | / | 
 | ***Architecture*** |||||
 | MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving | Zhang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2504.00379) | / |
