@@ -36,3 +36,4 @@ We encourage researchers who want to showcase their work on **spatial reasoning 
 
 | Year | Paper | Focused Areas    | Main Context                                      | GitHub                                                               |
 |------|-------|------------------|---------------------------------------------------|----------------------------------------------------------------------|
+| 2025 | NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving | Autonomous Driving | VLMs’ spatial reasoning capabilities in driving scenarios. | [Page](https://taco-group.github.io/NuScenes-SpatialQA/) |
