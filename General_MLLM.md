@@ -10,7 +10,8 @@
 | ***Post-training OR Fine-tuning*** |||||
 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models | Feng *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2406.13948) | [code](https://github.com/tsinghua-fib-lab/CityGPT) |
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21776) | [code](https://github.com/tulerfeng/Video-R1) |
-| Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Liao *et al.* | Arxiv 2025 (Apl) | [paper](https://arxiv.org/pdf/2504.00883) | / |
+| Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Liao *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.00883) | / |
+| Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning | Ouyang *et al.* | Arxiv 2024 (Apr) | [pdf](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/Spatial-R1) |
 | ***Explainability*** |||||
 | Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models | Rajabi *et al.* | ICLR 2024 Workshop | [paper](https://arxiv.org/pdf/2308.09778) | / |
 | ***Architecture*** |||||
