@@ -15,6 +15,7 @@
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21776) | [code](https://github.com/tulerfeng/Video-R1) |
 | Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Liao *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.00883) | / |
 | Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning | Ouyang *et al.* | Arxiv 2024 (Apr) | [pdf](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/Spatial-R1) |
+| MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse | Pan *et al.* | [paper](https://arxiv.org/pdf/2503.18470) | [code](https://github.com/PzySeere/MetaSpatial) | 
 | ***Explainability*** |||||
 | Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models | Rajabi *et al.* | ICLR 2024 Workshop | [paper](https://arxiv.org/pdf/2308.09778) | / |
 | ***Architecture*** |||||
