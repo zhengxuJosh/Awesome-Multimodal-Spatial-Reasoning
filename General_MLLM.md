@@ -8,6 +8,7 @@
 | DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving | Guo *et al.*   | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.13112)  | [code](https://github.com/XiandaGuo/Drive-MLLM) | 
 | From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D | Zhang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2503.22976) | [code](https://github.com/fudan-zvg/spar) |
 | LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? | Tang  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19990) | [code]() |
+| Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models | Stogiannidis  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19707) | [code](https://github.com/stogiannidis/srbench) | 
 | ***Prompt Engineering*** |||||
 | ***Post-training OR Fine-tuning*** |||||
 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models | Feng *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2406.13948) | [code](https://github.com/tsinghua-fib-lab/CityGPT) |
