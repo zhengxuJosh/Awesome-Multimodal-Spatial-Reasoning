@@ -2,9 +2,9 @@
 
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
-| ***Spatial Intelligence in Embodied AI*** |||||
+<!-- | ***Spatial Intelligence in Embodied AI*** ||||| -->
 |  |  |  |  |  |
-| ***Vision-language-action models (VLAs)*** |||||
+<!-- | ***Vision-language-action models (VLAs)*** |||||-->
 |  |  |  |  |  |
-| ***Vision-language navigation (VLN)*** |||||
+<!-- | ***Vision-language navigation (VLN)*** |||||-->
 |  |  |  |  |  |
