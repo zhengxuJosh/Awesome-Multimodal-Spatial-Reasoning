@@ -1,1 +1,10 @@
+# Spatial Reasoning in Embodied AI
 
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
+---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| ***Spatial Intelligence in Embodied AI*** |||||
+|  |  |  |  |  |
+| ***vision-language-action models (VLAs)*** |||||
+|  |  |  |  |  |
+| ***Vision-language navigation (VLN)*** |||||
+|  |  |  |  |  |
