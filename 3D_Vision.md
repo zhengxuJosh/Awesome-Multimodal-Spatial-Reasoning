@@ -1,7 +1,17 @@
-| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
----------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 
 # Spatial Reasoning in 3D Vision
+
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
+---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| ***Benchmark and Dataset*** |||||
+| ***3D Spatial Relationship Reasoning among objects*** |||||
+| ***3D Scene Understanding and Layout Reasoning*** |||||
+| ***3D Navigation and Path Planning*** |||||
+| ***SLAM based on VLM*** |||||
+| ***VQA*** |||||
+| ***3D Grounding*** |||||
+| ***3D modeling*** |||||
+| ***3D Compositional Generation*** |||||
 
 ## 3D
 - **3D Spatial Relationship Reasoning among objects**
