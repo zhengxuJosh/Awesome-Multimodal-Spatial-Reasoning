@@ -7,6 +7,7 @@
 | ***3D Spatial Relationship Reasoning among objects*** |||||
 | ***3D Scene Understanding and Layout Reasoning*** |||||
 | ***3D Navigation and Path Planning*** |||||
+| 3d-llm: Injecting the 3d world into large language models | Hong *et al.* | NIPS 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/413885e70482b95dcbeeddc1daf39177-Paper-Conference.pdf) | [code](https://github.com/UMass-Embodied-AGI/3D-LLM) |
 | ***SLAM based on VLM*** |||||
 | ***VQA*** |||||
 | ***3D Grounding*** |||||
