@@ -1,27 +1,27 @@
-# Reasoning with MLLMs - Sorted Paper List
+# Reasoning with MLLMs - Analysis Table
 
-| Title   | Authors       | Venue/Date       | Paper Link   | Code                                         |
-|---------|---------------|------------------|--------------|----------------------------------------------|
-| A Short Survey on Small Reasoning Models: Training, Inference, Applications and Research Directions | Wang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.09100) | [code]() |
-| A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems | Ke *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.09037) | [code]() |
-| How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM | Zha *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.05786) | [code]() |
-| Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1) | Bi *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.03151) | [code]() |
-| A Survey of Scaling in Large Language Model Reasoning | Chen *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.02181) | [code]() |
-| Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models | Chen *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2503.09567) | [code]() |
-| A Survey on Mathematical Reasoning and Optimization with Large Language Models | Ali *et al* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17726) | [code]() |
-| Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.24377) | [code](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers) |
-| Efficient Inference for Large Reasoning Models: A Survey | Plaat *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.23077) | [code]() |
-| A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond | Qu *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21614) | [code](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) |
-| Mind with Eyes: from Language Reasoning to Multimodal Reasoning | Lin *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.18071) | [code]() |
-| Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models | Sui *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.16419) | [code](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs) |
-| Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.12605) | [code]() |
-| Thinking Machines: A Survey of LLM based Reasoning Strategies | Bandyopadhyay *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.10814) | [code]() |
-| A Survey on Enhancing Causal Reasoning Ability of Large Language Models | Li *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.09326) | [code]() |
-| Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.12605) | [code](https://github.com/yaotingwangofficial/Awesome-MCoT) |
-| A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges | Yan *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2412.11936) | [code]() |
-| Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs | Yang *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.19411) | [code]() |
-| From System 1 to System 2: A Survey of Reasoning Large Language Models | Li *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.17419) | [code]() |
-| Empowering LLMs with Logical Reasoning: A Comprehensive Survey | Cheng *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.15652) | [code]() |
-| Towards Reasoning Ability of Small Language Models | Srivastava *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.11569) | [code]() |
-| Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning | Wang *et al.* | Arxiv 2024 (Jan) | [paper](https://arxiv.org/pdf/2401.06805) | [code]() |
-| Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | Xu *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.09686) | [code]() |
+| Title   | Authors       | Venue/Date       | Main Focus/Analysis   | Paper / GitHub Link                                         |
+|---------|---------------|------------------|-----------------------|-----------------------------------------------------|
+| A Short Survey on Small Reasoning Models: Training, Inference, Applications and Research Directions | Wang *et al.* | Arxiv 2025 (Apr) | Explores small reasoning models, training, inference, and applications | [link](https://arxiv.org/pdf/2504.09100) |
+| A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems | Ke *et al.* | Arxiv 2025 (Apr) | Discusses inference scaling, learning-to-reason, and agentic systems in LLMs | [link](https://arxiv.org/pdf/2504.09037) |
+| How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM | Zha *et al.* | Arxiv 2025 (Apr) | Focuses on enabling LLMs with 3D spatial reasoning capabilities | [link](https://arxiv.org/pdf/2504.05786) |
+| Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1) | Bi *et al.* | Arxiv 2025 (Apr) | Reviews advancements in multimodal reasoning in LLMs | [link](https://arxiv.org/pdf/2504.03151) |
+| A Survey of Scaling in Large Language Model Reasoning | Chen *et al.* | Arxiv 2025 (Apr) | Investigates scaling challenges and techniques in LLM reasoning | [link](https://arxiv.org/pdf/2504.02181) |
+| Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models | Chen *et al.* | Arxiv 2025 (Apr) | Discusses long chain-of-thought approaches for enhancing LLM reasoning | [link](https://arxiv.org/pdf/2503.09567) |
+| A Survey on Mathematical Reasoning and Optimization with Large Language Models | Ali *et al* | Arxiv 2025 (Mar) | Focuses on mathematical reasoning and optimization tasks within LLMs | [link](https://arxiv.org/pdf/2503.17726) |
+| Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models | Wang *et al.* | Arxiv 2025 (Mar) | Reviews efficient reasoning techniques for large-scale LLMs | [link](https://arxiv.org/pdf/2503.24377) |
+| Efficient Inference for Large Reasoning Models: A Survey | Plaat *et al.* | Arxiv 2025 (Mar) | Explores efficient inference techniques for large reasoning models | [link](https://arxiv.org/pdf/2503.23077) |
+| A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond | Qu *et al.* | Arxiv 2025 (Mar) | Discusses language and multimodal techniques for efficient reasoning in LLMs | [link](https://arxiv.org/pdf/2503.21614) |
+| Mind with Eyes: from Language Reasoning to Multimodal Reasoning | Lin *et al.* | Arxiv 2025 (Mar) | Focuses on transitioning from language reasoning to multimodal reasoning | [link](https://arxiv.org/pdf/2503.18071) |
+| Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models | Sui *et al.* | Arxiv 2025 (Mar) | Reviews techniques for reducing inefficiencies in LLM reasoning | [link](https://arxiv.org/pdf/2503.16419) |
+| Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey | Wang *et al.* | Arxiv 2025 (Mar) | Examines the integration of chain-of-thought reasoning with multimodal LLMs | [link](https://arxiv.org/pdf/2503.12605) |
+| Thinking Machines: A Survey of LLM based Reasoning Strategies | Bandyopadhyay *et al.* | Arxiv 2025 (Mar) | Discusses various reasoning strategies implemented in LLMs | [link](https://arxiv.org/pdf/2503.10814) |
+| A Survey on Enhancing Causal Reasoning Ability of Large Language Models | Li *et al.* | Arxiv 2025 (Mar) | Focuses on methods to improve causal reasoning abilities in LLMs | [link](https://arxiv.org/pdf/2503.09326) |
+| Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey | Wang *et al.* | Arxiv 2025 (Mar) | Another look at multimodal chain-of-thought in reasoning tasks for LLMs | [link](https://arxiv.org/pdf/2503.12605) |
+| A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges | Yan *et al.* | Arxiv 2025 (Feb) | Reviews mathematical reasoning benchmarks and methods in LLMs | [link](https://arxiv.org/pdf/2412.11936) |
+| Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs | Yang *et al.* | Arxiv 2025 (Feb) | Explores code-enhanced reasoning in LLMs, and reasoning-driven code tasks | [link](https://arxiv.org/pdf/2502.19411) |
+| From System 1 to System 2: A Survey of Reasoning Large Language Models | Li *et al.* | Arxiv 2025 (Feb) | Focuses on cognitive reasoning models and LLMs (System 1 vs System 2) | [link](https://arxiv.org/pdf/2502.17419) |
+| Empowering LLMs with Logical Reasoning: A Comprehensive Survey | Cheng *et al.* | Arxiv 2025 (Feb) | Discusses integrating logical reasoning in LLMs for more structured outputs | [link](https://arxiv.org/pdf/2502.15652) |
+| Towards Reasoning Ability of Small Language Models | Srivastava *et al.* | Arxiv 2025 (Feb) | Investigates small language models' reasoning abilities and improvements | [link](https://arxiv.org/pdf/2502.11569) |
+| Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning | Wang *et al.* | Arxiv 2024 (Jan) | Explores the emerging trends and challenges in multimodal reasoning for LLMs | [link](https://arxiv.org/pdf/2401.06805) |
+| Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | Xu *et al.* | Arxiv 2025 (Jan) | Focuses on reinforced reasoning techniques for LLMs | [link](https://arxiv.org/pdf/2501.09686) |
