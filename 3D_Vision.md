@@ -4,8 +4,10 @@
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | ***Benchmark and Dataset*** |||||
+| 🔥 MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations | Lyu *et al.* | NIPS 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/5aed0d900297bd5593afc14ff452d4a8-Paper-Datasets_and_Benchmarks_Track.pdf) | [code](https://github.com/OpenRobotLab/EmbodiedScan) |
 | ***3D Spatial Relationship Reasoning among objects*** |||||
 | ***3D Scene Understanding and Layout Reasoning*** |||||
+| Multi-modal situated reasoning in 3d scenes | Linghu *et al.* | NIPS 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/feaeec8ec2d3cb131fe18517ff14ec1f-Paper-Datasets_and_Benchmarks_Track.pdf) | [code](https://github.com/MSR3D/MSR3D) |
 | Scene-llm: Extending language model for 3d visual understanding and reasoning | Fu *et al.* | WACV 2025 | [paper](https://arxiv.org/pdf/2403.11401) | / |
 | ***3D Navigation and Planning*** |||||
 | 🔥 3d-llm: Injecting the 3d world into large language models | Hong *et al.* | NIPS 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/413885e70482b95dcbeeddc1daf39177-Paper-Conference.pdf) | [code](https://github.com/UMass-Embodied-AGI/3D-LLM) |
@@ -24,8 +26,12 @@
 | ***SLAM based on VLM*** |||||
 | ***VQA*** |||||
 | Ll3da: Visual interactive instruction tuning for omni-3d understanding reasoning and planning | Chen *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LL3DA_Visual_Interactive_Instruction_Tuning_for_Omni-3D_Understanding_Reasoning_and_CVPR_2024_paper.pdf) | [code](https://github.com/Open3DA/LL3DA) |
+| Situational awareness matters in 3d vision language reasoning | Man *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Man_Situational_Awareness_Matters_in_3D_Vision_Language_Reasoning_CVPR_2024_paper.pdf) | [code](https://github.com/YunzeMan/Situation3D) |
+| Llava-3d: A simple yet effective pathway to empowering lmms with 3d-awareness | Zhu *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2409.18125) | [code](https://github.com/ZCMax/LLaVA-3D) |
 | ***3D Grounding*** |||||
 | 🔥 LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent | Yang *et al.* | ICRA 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10610443) | [code](https://github.com/sled-group/chat-with-nerf) |
+| Visual programming for zero-shot open-vocabulary 3d visual grounding | Yuan *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Visual_Programming_for_Zero-shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2024_paper.pdf) | [code](https://github.com/CurryYuan/ZSVG3D) |
+| Grounded 3D-LLM with Referent Tokens | Chen *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.10370) | [code](https://github.com/OpenRobotLab/Grounded_3D-LLM) |
 | SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) |
 | ***3D modeling*** |||||
 | ***3D Compositional Generation*** |||||
