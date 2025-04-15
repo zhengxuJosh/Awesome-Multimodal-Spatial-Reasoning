@@ -3,6 +3,7 @@
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | ***Spatial Intelligence in Embodied AI*** |||||
+| SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Yuecheng *et al.* | arxiv 2025(Jan) | [paper](https://arxiv.org/pdf/2501.10074) | / |
 | ***Embodied 3D Scene Understanding*** |||||
 |  |  |  |  |  |
 | ***Embodied 3D Visual Grounding*** |||||
