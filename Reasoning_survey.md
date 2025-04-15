@@ -13,7 +13,7 @@
 | A Survey of Scaling in Large Language Model Reasoning | Chen *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.02181) | [code]() | 
 | Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.24377) | [code](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers) |   
 | Efficient Inference for Large Reasoning Models: A Survey | Plaat *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.23077) | [code]() | 
-| A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond | Qu *et al.* | [paper](https://arxiv.org/pdf/2503.21614) | [code](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) | 
+| A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond | Qu *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21614) | [code](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) | 
 | Mind with Eyes: from Language Reasoning to Multimodal Reasoning | Lin *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.18071) | [code]() | 
 | A Survey on Mathematical Reasoning and Optimization with Large Language Models | Ali *et al* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17726) | [code]() |
 | Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models | Sui *et al.* | Arxiv 2025 (Mar) |[paper](https://arxiv.org/pdf/2503.16419) | [code](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs) | 
