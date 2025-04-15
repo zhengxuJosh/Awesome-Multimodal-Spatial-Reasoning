@@ -8,6 +8,7 @@
 | ***3D Spatial Relationship Reasoning among objects*** |||||
 | ***3D Scene Understanding and Layout Reasoning*** |||||
 | Multi-modal situated reasoning in 3d scenes | Linghu *et al.* | NIPS 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/feaeec8ec2d3cb131fe18517ff14ec1f-Paper-Datasets_and_Benchmarks_Track.pdf) | [code](https://github.com/MSR3D/MSR3D) |
+| LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Hongyan *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.01292v1) | [code](https://github.com/Hoyyyaard/LSceneLLM) |
 | Scene-llm: Extending language model for 3d visual understanding and reasoning | Fu *et al.* | WACV 2025 | [paper](https://arxiv.org/pdf/2403.11401) | / |
 | ***3D Navigation and Planning*** |||||
 | 🔥 3d-llm: Injecting the 3d world into large language models | Hong *et al.* | NIPS 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/413885e70482b95dcbeeddc1daf39177-Paper-Conference.pdf) | [code](https://github.com/UMass-Embodied-AGI/3D-LLM) |
