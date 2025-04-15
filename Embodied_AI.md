@@ -17,8 +17,8 @@
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
 |  |  |  |  |  |
-| ***Embodied Control*** |||||
-|  |  |  |  |  |
+<!--| ***Embodied Control*** ||||| -->
+<!--|  |  |  |  |  | -->
 <!-- Embodied World Model -->
 <!-- Embodied Control -->
 <!-- | ***Spatial Intelligence in Embodied AI*** ||||| -->
