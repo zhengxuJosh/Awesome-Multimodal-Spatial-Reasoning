@@ -33,7 +33,7 @@
 | 🔥 3d-vla: A 3d vision-language-action generative world model | Zhen *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2403.09631) | [Code](https://github.com/UMass-Embodied-AGI/3D-VLA) |
 | ***SLAM based on VLM*** |||||
 | ***VQA*** |||||
-| Context-aware Alignment and Mutual Masking for 3D-Language Pre-training | Zhao *et al.* | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.pdf) | [code]([https://github.com/PQ3D/PQ3D](https://github.com/leolyj/3D-VLP)) |
+| Context-aware Alignment and Mutual Masking for 3D-Language Pre-training | Zhao *et al.* | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.pdf) | [code]((https://github.com/leolyj/3D-VLP)) |
 | Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes | Delitzas *et al.* | BMVC 2023(oral) | [paper](https://arxiv.org/pdf/2306.02329) | [code](https://github.com/AlexDelitzas/Multi-CLIP) |
 | Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes | Zehan *et al.* | Arxiv 2023 (Aug) | [paper](https://arxiv.org/pdf/2308.08769) | [code](https://github.com/Chat-3D/Chat-3D) |
 | 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment | Ziyu *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2308.04352) | [code](https://github.com/3d-vista/3D-VisTA) |
