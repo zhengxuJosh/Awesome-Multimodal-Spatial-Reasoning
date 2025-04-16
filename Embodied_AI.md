@@ -2,8 +2,8 @@
 
 | Title                                                                                             | Authors       | Venue/Date           | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|----------------------|----------------------------------------------|----------------------------------------------|
-| ***Spatial Intelligence in Embodied AI*** |||||
-| SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Yuecheng *et al.* | arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.10074) | / |
+| ***Spatial Reasoning in Embodied AI*** |||||
+| SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Yuecheng *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.10074) | / |
 | SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities | Boyuan *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf) | [code](https://github.com/remyxai/VQASynth) |
 | RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics | Wentao *et al.* | CoRL 2024 | [paper](https://arxiv.org/pdf/2406.10721) | [code](https://github.com/wentaoyuan/RoboPoint) |
 | RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | Chan *et al.* | ICLR 2025 (Workshop) | [paper](https://arxiv.org/pdf/2411.16537) | / |
@@ -28,7 +28,7 @@
 | ***Embodied Question Answering*** |||||
 | EMBOSR: Embodied Spatial Reasoning for Enhanced Situated Question Answering in 3D Scenes | Yu *et al.* | IROS 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801720) | / | 
 | ***Embodied Grasping*** |||||
-| Free-form language-based robotic reasoning and grasping | Runyu *et al.* | arxiv 2025(Mar) | [paper](https://arxiv.org/pdf/2503.13082) | / | 
+| Free-form language-based robotic reasoning and grasping | Runyu *et al.* | Arxiv 2025(Mar) | [paper](https://arxiv.org/pdf/2503.13082) | / | 
 | ***Vision-language-action models (VLAs)*** |||||
 | 🔥 3d-vla: A 3d vision-language-action generative world model | Zhen *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2403.09631) | [Code](https://github.com/UMass-Embodied-AGI/3D-VLA) |
 |  |  |  |  |  |
@@ -38,9 +38,4 @@
 <!--|  |  |  |  |  | -->
 <!-- Embodied World Model -->
 <!-- Embodied Control -->
-<!-- | ***Spatial Intelligence in Embodied AI*** ||||| -->
-<!-- |  |  |  |  |  | -->
-<!-- | ***Vision-language-action models (VLAs)*** |||||-->
-<!-- |  |  |  |  |  | -->
-<!-- | ***Vision-language navigation (VLN)*** |||||-->
 <!-- |  |  |  |  |  | -->
