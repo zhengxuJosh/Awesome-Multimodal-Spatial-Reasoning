@@ -5,6 +5,7 @@
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | ***Benchmark and Dataset*** |||||
 | SQA3D: Situated Question Answering in 3D Scenes | Xiaojian *et al.* | ICLR 2023 | [paper](https://arxiv.org/pdf/2210.07474) | [code](https://github.com/SilongYong/SQA3D) |
+| M3DBench: Let’s Instruct Large Models with Multi-modal 3D Prompts | Mingsheng *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2312.10763) | [code](https://github.com/OpenM3D/M3DBench/) |
 | 🔥 MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations | Lyu *et al.* | NIPS 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/5aed0d900297bd5593afc14ff452d4a8-Paper-Datasets_and_Benchmarks_Track.pdf) | [code](https://github.com/OpenRobotLab/EmbodiedScan) |
 | ***3D Spatial Relationship Reasoning among objects*** |||||
 | ***3D Scene Understanding and Layout Reasoning*** |||||
