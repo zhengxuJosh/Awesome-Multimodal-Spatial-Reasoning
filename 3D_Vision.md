@@ -18,6 +18,7 @@
 | LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Hongyan *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.01292v1) | [code](https://github.com/Hoyyyaard/LSceneLLM) |
 | 3UR-LLM: An End-to-End Multimodal Large Language Model for 3D Scene Understand | Haomiao *et al.* | TMM 2025 | [paper](https://arxiv.org/pdf/2501.07819) | [code](https://github.com/hmxiong/3UR-LLM) |
 | ***SLAM based on VLM*** |||||
+| Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models | Hong *et al.* | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.06752) | / |
 | ***VQA*** |||||
 | Context-aware Alignment and Mutual Masking for 3D-Language Pre-training | Zhao *et al.* | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.pdf) | [code]((https://github.com/leolyj/3D-VLP)) |
 | Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes | Delitzas *et al.* | BMVC 2023(oral) | [paper](https://arxiv.org/pdf/2306.02329) | [code](https://github.com/AlexDelitzas/Multi-CLIP) |
