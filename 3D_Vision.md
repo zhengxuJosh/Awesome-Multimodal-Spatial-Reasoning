@@ -40,6 +40,8 @@
 | SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) |
 | ***3D modeling*** |||||
 | ***3D Compositional Generation*** |||||
+| 🔥 CityDreamer: Compositional Generative Model of Unbounded 3D Cities | Haozhe *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf) | 
+[code](https://github.com/hzxie/CityDreamer) |
 | ***3D Navigation and Planning*** |||||
 | 🔥 3d-llm: Injecting the 3d world into large language models | Hong *et al.* | NIPS 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/413885e70482b95dcbeeddc1daf39177-Paper-Conference.pdf) | 
 [code](https://github.com/UMass-Embodied-AGI/3D-LLM) |
