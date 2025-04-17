@@ -40,11 +40,9 @@
 | SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) |
 | ***3D modeling*** |||||
 | ***3D Compositional Generation*** |||||
-| 🔥 CityDreamer: Compositional Generative Model of Unbounded 3D Cities | Haozhe *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf) | 
-[code](https://github.com/hzxie/CityDreamer) |
+| 🔥 CityDreamer: Compositional Generative Model of Unbounded 3D Cities | Haozhe *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf) | [code](https://github.com/hzxie/CityDreamer) |
 | ***3D Navigation and Planning*** |||||
-| 🔥 3d-llm: Injecting the 3d world into large language models | Hong *et al.* | NIPS 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/413885e70482b95dcbeeddc1daf39177-Paper-Conference.pdf) | 
-[code](https://github.com/UMass-Embodied-AGI/3D-LLM) |
+| 🔥 3d-llm: Injecting the 3d world into large language models | Hong *et al.* | NIPS 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/413885e70482b95dcbeeddc1daf39177-Paper-Conference.pdf) | [code](https://github.com/UMass-Embodied-AGI/3D-LLM) |
 | Towards learning a generalist model for embodied navigation | Zheng *et al.* | CVPR2 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Towards_Learning_a_Generalist_Model_for_Embodied_Navigation_CVPR_2024_paper.pdf) | [code](https://github.com/zd11024/NaviLLM) |
 | 🔥 OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning | Wang *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.01533) | [code](https://github.com/NVlabs/OmniDrive) |
 | 🔥 Conceptgraphs: Open-vocabulary 3d scene graphs for perception and planning | Gu *et al.* | ICRA 2024 | [paper](https://ieeexplore.ieee.org/iel8/10609961/10609862/10610243.pdf?casa_token=M6hQGyV3IEUAAAAA:H00JN_qifw9A_KA4byE0qpcj0ITOkPIBw8mFd4iUj59djitLQpv7Sl6ng5u9LMQGFPahuAXvHilEWw) | [code](https://github.com/concept-graphs/concept-graphs) |
