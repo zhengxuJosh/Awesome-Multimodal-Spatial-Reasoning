@@ -5,6 +5,7 @@
 | ***Spatial Reasoning in Embodied AI*** |||||
 | SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Liu *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.10074) | / |
 | SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities | Chen *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf) | [code](https://github.com/remyxai/VQASynth) |
+| SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) |
 | RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics |  Yuan *et al.* | CoRL 2024 | [paper](https://arxiv.org/pdf/2406.10721) | [code](https://github.com/wentaoyuan/RoboPoint) |
 | RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | Song *et al.* | ICLR 2025 (Workshop) | [paper](https://arxiv.org/pdf/2411.16537) | / |
 | Visual Agentic AI for Spatial Reasoning with a Dynamic API |  Marsili *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2502.06787) | [code](https://github.com/damianomarsili/VADAR) |
