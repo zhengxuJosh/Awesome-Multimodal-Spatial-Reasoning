@@ -3,10 +3,12 @@
 | Title                                                                                             | Authors       | Venue/Date           | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|----------------------|----------------------------------------------|----------------------------------------------|
 | ***Spatial Reasoning in Embodied AI*** |||||
-| SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Yuecheng *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.10074) | / |
-| SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities | Boyuan *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf) | [code](https://github.com/remyxai/VQASynth) |
-| RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics | Wentao *et al.* | CoRL 2024 | [paper](https://arxiv.org/pdf/2406.10721) | [code](https://github.com/wentaoyuan/RoboPoint) |
-| RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | Chan *et al.* | ICLR 2025 (Workshop) | [paper](https://arxiv.org/pdf/2411.16537) | / |
+| SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Liu *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.10074) | / |
+| SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities | Chen *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf) | [code](https://github.com/remyxai/VQASynth) |
+| RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics |  Yuan *et al.* | CoRL 2024 | [paper](https://arxiv.org/pdf/2406.10721) | [code](https://github.com/wentaoyuan/RoboPoint) |
+| RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | Song *et al.* | ICLR 2025 (Workshop) | [paper](https://arxiv.org/pdf/2411.16537) | / |
+| Visual Agentic AI for Spatial Reasoning with a Dynamic API |  Marsili *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2502.06787) | [code](https://github.com/damianomarsili/VADAR) |
+| An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models |  Yuan *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2411.06048) | [code](https://github.com/FatemehShiri/Spatial-MM) |
 | ***Embodied 3D Scene Understanding*** |||||
 |  |  |  |  |  |
 | ***Embodied 3D Visual Grounding*** |||||
@@ -31,6 +33,13 @@
 | Free-form language-based robotic reasoning and grasping | Runyu *et al.* | Arxiv 2025(Mar) | [paper](https://arxiv.org/pdf/2503.13082) | / | 
 | ***Vision-language-action models (VLAs)*** |||||
 | 🔥 3d-vla: A 3d vision-language-action generative world model | Zhen *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2403.09631) | [Code](https://github.com/UMass-Embodied-AGI/3D-VLA) |
+| ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation | Huang *et al.* | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2409.01652) | [Code](https://github.com/huangwl18/ReKep) |
+| PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs | Nasiriany *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2402.07872v1) | / |
+| VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models | Huang *et al.* | CoRL 2023 | [paper](https://arxiv.org/pdf/2307.05973v2) | [Code](https://github.com/huangwl18/VoxPoser) |
+| RoboTAP: Tracking Arbitrary Points for Few-Shot Visual Imitation | Vecerik *et al.* | ICRA 2024 | [paper](https://arxiv.org/pdf/2308.15975) | / |
+| OpenVLA: An Open-Source Vision-Language-Action Model |  Kim *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2406.09246) | [Code](https://github.com/openvla/openvla) |
+| RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | Brohan *et al.* | CoRL 2023 | [paper](https://arxiv.org/pdf/2307.15818) | / |
+| 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations |  Ke *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2402.10885) | [Code](https://github.com/nickgkan/3d_diffuser_actor) |
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
 |  |  |  |  |  |
