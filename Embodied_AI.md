@@ -8,8 +8,11 @@
 | SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) |
 | RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics |  Yuan *et al.* | CoRL 2024 | [paper](https://arxiv.org/pdf/2406.10721) | [code](https://github.com/wentaoyuan/RoboPoint) |
 | RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | Song *et al.* | ICLR 2025 (Workshop) | [paper](https://arxiv.org/pdf/2411.16537) | / |
+| 3D-Mem: 3DScene Memory for Embodied Exploration and Reasoning | Yang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2411.17735) | [code](https://github.com/UMass-Embodied-AGI/3D-Mem) |
 | Visual Agentic AI for Spatial Reasoning with a Dynamic API |  Marsili *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2502.06787) | [code](https://github.com/damianomarsili/VADAR) |
 | An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models |  Yuan *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2411.06048) | [code](https://github.com/FatemehShiri/Spatial-MM) |
+| An Embodied Generalist Agent in 3D World |  Huang *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2311.12871v3) | [code](https://github.com/embodied-generalist/embodied-generalist) |
+| What’s “up” with vision-language models? Investigating their struggle with spatial reasoning |  Kamath *et al.* | EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.19785) | [code](https://github.com/amitakamath/whatsup_vlms) |
 | ***Embodied 3D Scene Understanding*** |||||
 |  |  |  |  |  |
 | ***Embodied 3D Visual Grounding*** |||||
@@ -43,6 +46,7 @@
 | 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations |  Ke *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2402.10885) | [Code](https://github.com/nickgkan/3d_diffuser_actor) |
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
+| UniSim: Learning Interactive Real-World Simulators | Yangzhe *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2310.06114) | / |
 |  |  |  |  |  |
 <!--| ***Embodied Control*** ||||| -->
 <!--|  |  |  |  |  | -->
