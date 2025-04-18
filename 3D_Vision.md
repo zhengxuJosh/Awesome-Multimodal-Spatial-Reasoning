@@ -29,6 +29,8 @@
 | Grounded 3D-LLM with Referent Tokens | Yilun *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.10370) | [code](https://github.com/OpenRobotLab/Grounded_3D-LLM) |
 | Unifying 3D Vision-Language Understanding via Promptable Queries | Ziyu *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2405.11442) | [code](https://github.com/PQ3D/PQ3D) |
 | Agent3D-Zero: An Agent for Zero-shot 3D Understanding | Sha *et al.* | ECCV 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02877.pdf) | / |
+| ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | Zekun *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2402.17766) | [code](https://github.com/qizekun/ShapeLLM) |
+| MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors | Yuan *et al.* | MM 2024 | [paper](https://arxiv.org/pdf/2405.01413) | [code](https://github.com/TangYuan96/MiniGPT-3D) |
 | Situational Awareness Matters in 3D Vision Language Reasoning | Yunze *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2406.07544) | [code](https://github.com/YunzeMan/Situation3D) |
 | Llava-3d: A simple yet effective pathway to empowering lmms with 3d-awareness | Zhu *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2409.18125) | [code](https://github.com/ZCMax/LLaVA-3D) |
 | Robin3D : Improving 3D Large Language Model via Robust Instruction Tuning | Weitai *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/pdf/2410.00255) | [code](https://github.com/WeitaiKang/Robin3D) |
