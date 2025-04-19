@@ -7,7 +7,6 @@
 | SQA3D: Situated Question Answering in 3D Scenes | Xiaojian *et al.* | ICLR 2023 | [paper](https://arxiv.org/pdf/2210.07474) | [code](https://github.com/SilongYong/SQA3D) |
 | M3DBench: Let’s Instruct Large Models with Multi-modal 3D Prompts | Mingsheng *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2312.10763) | [code](https://github.com/OpenM3D/M3DBench/) |
 | 🔥 MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations | Lyu *et al.* | NIPS 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/5aed0d900297bd5593afc14ff452d4a8-Paper-Datasets_and_Benchmarks_Track.pdf) | [code](https://github.com/OpenRobotLab/EmbodiedScan) |
-| ***3D Spatial Relationship Reasoning among objects*** |||||
 | ***3D Scene Understanding and Layout Reasoning*** |||||
 | An Embodied Generalist Agent in 3D World | Jiangyong *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2311.12871) | [code](https://github.com/embodied-generalist/embodied-generalist) |
 | 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment | Ziyu *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2308.04352) | [code](https://github.com/3d-vista/3D-VisTA) |
