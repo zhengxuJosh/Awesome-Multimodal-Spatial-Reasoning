@@ -9,13 +9,16 @@
 | LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? | Tang  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19990) | [code]() |
 | Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models | Stogiannidis  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19707) | [code](https://github.com/stogiannidis/srbench) | 
 | What's "up" with vision-language models? Investigating their struggle with spatial reasoning | Kamath  *et al.* | EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.19785) | [code](https://github.com/amitakamath/whatsup_vlms) | 
+| TopViewRS: Vision-Language Models as Top-View Spatial Reasoners | Li  *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2406.02537) | [code](https://github.com/amitakamath/whatsup_vlms) | 
 | ***Prompt Engineering*** |||||
+| Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models | Wu  *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2404.03622) | [code](https://github.com/microsoft/visualization-of-thought) | 
 | ***Post-training OR Fine-tuning*** |||||
 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models | Feng *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2406.13948) | [code](https://github.com/tsinghua-fib-lab/CityGPT) |
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21776) | [code](https://github.com/tulerfeng/Video-R1) |
 | Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Liao *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.00883) | / |
 | Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning | Ouyang *et al.* | Arxiv 2024 (Apr) | [pdf](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/Spatial-R1) |
 | MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse | Pan *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.18470) | [code](https://github.com/PzySeere/MetaSpatial) | 
+| Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Spatial Reasoning | Tang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2410.16162) | / | 
 | ***Explainability*** |||||
 | Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models | Rajabi *et al.* | ICLR 2024 Workshop | [paper](https://arxiv.org/pdf/2308.09778) | / |
 | Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | Qi *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17349) | / | 
