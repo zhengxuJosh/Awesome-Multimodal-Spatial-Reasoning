@@ -8,7 +8,7 @@
 | M3DBench: Let’s Instruct Large Models with Multi-modal 3D Prompts | Mingsheng *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2312.10763) | [code](https://github.com/OpenM3D/M3DBench/) |
 | 🔥 MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations | Lyu *et al.* | NIPS 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/5aed0d900297bd5593afc14ff452d4a8-Paper-Datasets_and_Benchmarks_Track.pdf) | [code](https://github.com/OpenRobotLab/EmbodiedScan) |
 | ***3D Scene Understanding and Layout Reasoning*** |||||
-| An Embodied Generalist Agent in 3D World | Jiangyong *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2311.12871) | [code](https://github.com/embodied-generalist/embodied-generalist) |
+| An Embodied Generalist Agent in 3D World | Jiangyong *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2311.12871) | [code](https://github.com/embodied-generalist/embodied-generalist) |
 | 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment | Ziyu *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2308.04352) | [code](https://github.com/3d-vista/3D-VisTA) |
 | Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers | Haifeng *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2312.08168) | [code](https://github.com/ZzZZCHS/Chat-Scene) |
 | Situational awareness matters in 3d vision language reasoning | Man *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Man_Situational_Awareness_Matters_in_3D_Vision_Language_Reasoning_CVPR_2024_paper.pdf) | [code](https://github.com/YunzeMan/Situation3D) |
@@ -16,7 +16,7 @@
 | Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models | Dingning *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2402.03327) | / |
 | Scene-llm: Extending language model for 3d visual understanding and reasoning | Fu *et al.* | WACV 2025 | [paper](https://arxiv.org/pdf/2403.11401) | / |
 | Agent3D-Zero: An Agent for Zero-shot 3D Understanding | Sha *et al.* | ECCV 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02877.pdf) | / |
-| SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors | Chenyang *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2403.13438) | [code](https://github.com/dannymcy/zeroshot_task_hallucination_code?tab=readme-ov-file) |
+| SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors | Chenyang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2403.13438) | [code](https://github.com/dannymcy/zeroshot_task_hallucination_code?tab=readme-ov-file) |
 | Robin3D : Improving 3D Large Language Model via Robust Instruction Tuning | Weitai *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/pdf/2410.00255) | [code](https://github.com/WeitaiKang/Robin3D) |
 | SPARTUN3D: SITUATED SPATIAL UNDERSTANDING OF 3D WORLD IN LARGE LANGUAGE MODELS | Yue *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.03878) | / |
 | LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Hongyan *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.01292v1) | [code](https://github.com/Hoyyyaard/LSceneLLM) |
@@ -30,7 +30,6 @@
 | Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes | Zehan *et al.* | Arxiv 2023 (Aug) | [paper](https://arxiv.org/pdf/2308.08769) | [code](https://github.com/Chat-3D/Chat-3D) |
 | Ll3da: Visual interactive instruction tuning for omni-3d understanding reasoning and planning | Chen *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LL3DA_Visual_Interactive_Instruction_Tuning_for_Omni-3D_Understanding_Reasoning_and_CVPR_2024_paper.pdf) | [code](https://github.com/Open3DA/LL3DA) |
 | Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs | Ranasinghe *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_Learning_to_Localize_Objects_Improves_Spatial_Reasoning_in_Visual-LLMs_CVPR_2024_paper.pdf) | / |
-| Grounded 3D-LLM with Referent Tokens | Yilun *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.10370) | [code](https://github.com/OpenRobotLab/Grounded_3D-LLM) |
 | Unifying 3D Vision-Language Understanding via Promptable Queries | Ziyu *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2405.11442) | [code](https://github.com/PQ3D/PQ3D) |
 | ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | Zekun *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2402.17766) | [code](https://github.com/qizekun/ShapeLLM) |
 | MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors | Yuan *et al.* | MM 2024 | [paper](https://arxiv.org/pdf/2405.01413) | [code](https://github.com/TangYuan96/MiniGPT-3D) |
