@@ -22,6 +22,8 @@
 | LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Hongyan *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.01292v1) | [code](https://github.com/Hoyyyaard/LSceneLLM) |
 | 3UR-LLM: An End-to-End Multimodal Large Language Model for 3D Scene Understand | Haomiao *et al.* | TMM 2025 | [paper](https://arxiv.org/pdf/2501.07819) | [code](https://github.com/hmxiong/3UR-LLM) |
 | ***SLAM based on VLM*** |||||
+| Lp-slam: language-perceptive RGB-D SLAM framework exploiting large language model | Zhang *et al.* | Arxiv 2023 (Mar) | [paper](https://arxiv.org/abs/2303.10089) | / |
+| Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding | Kassab *et al.* | ICRA 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10610341) | / |
 | Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models | Hong *et al.* | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.06752) | / |
 | ***VQA*** |||||
 | Context-aware Alignment and Mutual Masking for 3D-Language Pre-training | Zhao *et al.* | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.pdf) | [code](https://github.com/leolyj/3D-VLP) |
