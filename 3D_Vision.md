@@ -29,7 +29,7 @@
 | Weakly Supervised 3D Open-vocabulary Segmentation | Kunhao *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2305.14093) | [code](https://github.com/Kunhao-Liu/3D-OVS) | LLM |
 | OpenMask3D: Open-Vocabulary 3D Instance Segmentation | Takmaz *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2306.13631) | [code](https://github.com/OpenMask3D/openmask3d) | LLM |
 | Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding | Jin-Chuan *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2311.18482) | [code](https://github.com/buaavrcg/LEGaussians) | LLM |
-| 🔥 LangSplat: 3D Language Gaussian Splatting | Minghan *et al.* | CVPR 2024 (Highlight) | [paper](https://arxiv.org/pdf/2312.16084) | [code](https://github.com/minghanqin/LangSplat) |
+| 🔥 LangSplat: 3D Language Gaussian Splatting | Minghan *et al.* | CVPR 2024 (Highlight) | [paper](https://arxiv.org/pdf/2312.16084) | [code](https://github.com/minghanqin/LangSplat) | LLM |
 | 🔥 Gaussian Grouping: Segment and Edit Anything in 3D Scenes | Mingqiao *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2312.00732) | [code](https://github.com/lkeab/gaussian-grouping) | LLM |
 | Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding | Kassab *et al.* | ICRA 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10610341) | / | VLM |
 | GARField: Group Anything with Radiance Fields | Chung Min *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2401.09419) | [code](https://github.com/chungmin99/garfield) | LLM |
