@@ -6,14 +6,16 @@
 | Visual Spatial Reasoning | Liu *et al.* | TACL Volume 11 2023 | [paper](https://arxiv.org/pdf/2205.00363) | [code](https://github.com/cambridgeltl/visual-spatial-reasoning) |
 | Thinking in space: How multimodal large language models see, remember, and recall spaces | Yang *et al.*   | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.14171)  | [code](https://github.com/vision-x-nyu/thinking-in-space) |  
 | From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D | Zhang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2503.22976) | [code](https://github.com/fudan-zvg/spar) |
-| LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? | Tang  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19990) | [code]() |
+| LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? | Tang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19990) | [code]() |
 | Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models | Stogiannidis  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19707) | [code](https://github.com/stogiannidis/srbench) | 
-| What's "up" with vision-language models? Investigating their struggle with spatial reasoning | Kamath  *et al.* | EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.19785) | [code](https://github.com/amitakamath/whatsup_vlms) | 
-| TopViewRS: Vision-Language Models as Top-View Spatial Reasoners | Li  *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2406.02537) | [code](https://github.com/amitakamath/whatsup_vlms) | 
+| What's "up" with vision-language models? Investigating their struggle with spatial reasoning | Kamath *et al.* | EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.19785) | [code](https://github.com/amitakamath/whatsup_vlms) | 
+| TopViewRS: Vision-Language Models as Top-View Spatial Reasoners | Li *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2406.02537) | [code](https://github.com/amitakamath/whatsup_vlms) | 
+| Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities | Zhang *et al.* | ICLR 2025 (Oral) | [paper](https://arxiv.org/pdf/2410.17385) | [code](https://huggingface.co/datasets/sled-umich/COMFORT) | 
 | ***Prompt Engineering*** |||||
-| Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models | Wu  *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2404.03622) | [code](https://github.com/microsoft/visualization-of-thought) | 
-| I Know About "Up"! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction | Meng  *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2407.14133) | [code](https://github.com/zhouhao028/Iknow_up) | 
-| Do Large Language Models have Spatial Cognitive Abilities? | Wu  *et al.* | ACM Transactions on Intelligent Systems and Technology | [paper](https://dl.acm.org/doi/abs/10.1145/3716855) | [code](https://github.com/LLING000/SCABenchmark) | 
+| Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models | Wu *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2404.03622) | [code](https://github.com/microsoft/visualization-of-thought) | 
+| I Know About "Up"! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction | Meng *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2407.14133) | [code](https://github.com/zhouhao028/Iknow_up) | 
+| Do Large Language Models have Spatial Cognitive Abilities? | Wu *et al.* | ACM Transactions on Intelligent Systems and Technology | [paper](https://dl.acm.org/doi/abs/10.1145/3716855) | [code](https://github.com/LLING000/SCABenchmark) | 
+| Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models | Zhou *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.13872) | / | 
 | ***Post-training OR Fine-tuning*** |||||
 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models | Feng *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2406.13948) | [code](https://github.com/tsinghua-fib-lab/CityGPT) |
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21776) | [code](https://github.com/tulerfeng/Video-R1) |
@@ -22,6 +24,8 @@
 | MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse | Pan *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.18470) | [code](https://github.com/PzySeere/MetaSpatial) | 
 | Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Spatial Reasoning | Tang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2410.16162) | / | 
 | ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models | Ko *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19355) | [code](https://github.com/mlvlab/ST-VLM) | 
+| Imagine while Reasoning in Space: Multimodal Visualization-of-Thought |  Li *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.07542) | / | 
+| SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models |  Ray *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2412.07755) | [code](https://arijitray.com/SAT/) | 
 | ***Explainability*** |||||
 | Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models | Rajabi *et al.* | ICLR 2024 Workshop | [paper](https://arxiv.org/pdf/2308.09778) | / |
 | Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | Qi *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17349) | / | 
