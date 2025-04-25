@@ -27,7 +27,7 @@
 | Lp-slam: language-perceptive RGB-D SLAM framework exploiting large language model | Zhang *et al.* | Arxiv 2023 (Mar) | [paper](https://arxiv.org/abs/2303.10089) | / | / | / |
 | 🔥 LERF: Language Embedded Radiance Fields | Kerr *et al.* | ICCV 2023 (Oral) | [paper](https://arxiv.org/pdf/2303.09553) | [code](https://github.com/kerrj/lerf) | CLIP + DINO | / |
 | Weakly Supervised 3D Open-vocabulary Segmentation | Kunhao *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2305.14093) | [code](https://github.com/Kunhao-Liu/3D-OVS) | CLIP + DINO | / |
-| OpenMask3D: Open-Vocabulary 3D Instance Segmentation | Takmaz *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2306.13631) | [code](https://github.com/OpenMask3D/openmask3d) | LLM |
+| OpenMask3D: Open-Vocabulary 3D Instance Segmentation | Takmaz *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2306.13631) | [code](https://github.com/OpenMask3D/openmask3d) | CLIP + DINO | / |
 | Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding | Jin-Chuan *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2311.18482) | [code](https://github.com/buaavrcg/LEGaussians) | LLM |
 | 🔥 LangSplat: 3D Language Gaussian Splatting | Minghan *et al.* | CVPR 2024 (Highlight) | [paper](https://arxiv.org/pdf/2312.16084) | [code](https://github.com/minghanqin/LangSplat) | LLM |
 | 🔥 Gaussian Grouping: Segment and Edit Anything in 3D Scenes | Mingqiao *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2312.00732) | [code](https://github.com/lkeab/gaussian-grouping) | LLM |
