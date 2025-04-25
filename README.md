@@ -27,7 +27,11 @@
 ---
 
 ## Introduction
-TBD
+
+In this survey, we provide a comprehensive review of existing tasks in multimodal spatial reasoning with large models, categorizing and highlighting the frontiers of multimodal large language models (MLLMs), and introducing open benchmarks for evaluating these models. We start by reviewing the general spatial reasoning area with focuses on post-training techniques, explainability, and architecture. Beyond classical 2D scenarios, we systemically review the spatial relationship reasoning, scene and layout reasoning, and also visual question answering, grounding in the 3D space.
+Further, we also discuss the recent advances in embodied AI tasks, such as vision-language navigation and action models. Additionally, audio and ego-centric video modalities are also considered as part of this survey for distinct and emerging spatial understanding with novel sensors. We believe this survey establishes a solid foundation and offers valuable insights into the critical field of multimodal spatial reasoning. 
+
+Existing reasoning surveys are in [Reasoning_survey.md](./Reasoning_survey.md).
 
 ---
 
@@ -52,10 +56,6 @@ TBD
 ### General MLLM
 
 - 🔗 [General_MLLM.md](./General_MLLM.md)
-
-### Reasoning Survey
-
-- 🔗 [Reasoning_survey.md](./Reasoning_survey.md)
 
 ### Sound / Audio / Egocentric
 
