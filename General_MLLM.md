@@ -28,7 +28,8 @@
 | SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models |  Ray *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2412.07755) | [code](https://arijitray.com/SAT/) | 
 | ***Explainability*** |||||
 | Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models | Rajabi *et al.* | ICLR 2024 Workshop | [paper](https://arxiv.org/pdf/2308.09778) | / |
-| Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | Qi *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17349) | / | 
+| Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | Qi *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17349) | / |
+| Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas | Chen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.01773) | [code](https://github.com/shiqichen17/AdaptVis) | 
 | ***Architecture*** |||||
 | MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving | Zhang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2504.00379) | / |
 | Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs | Ranasinghe *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2404.07449) | / |
