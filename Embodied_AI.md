@@ -15,6 +15,10 @@
 | An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models |  Yuan *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2411.06048) | [code](https://github.com/FatemehShiri/Spatial-MM) |
 | An Embodied Generalist Agent in 3D World |  Huang *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2311.12871v3) | [code](https://github.com/embodied-generalist/embodied-generalist) |
 | What’s “up” with vision-language models? Investigating their struggle with spatial reasoning |  Kamath *et al.* | EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.19785) | [code](https://github.com/amitakamath/whatsup_vlms) |
+| Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning |  Zhao *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.12680) | [code](https://github.com/EmbodiedCity/Embodied-R.code) |
+| The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models? |  Zhang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/abs/2504.04540) | / |
+| Why Is Spatial Reasoning Hard for VLMs?An Attention Mechanism Perspective on Focus Areas |  Chen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.01773) | [code](https://github.com/shiqichen17/AdaptVis) |
+
 | ***Embodied 3D Scene Understanding*** |||||
 | EmbodiedSAM: Online Segment Any 3D Thing in Real Time |  Xu *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2408.11811) | [code](https://github.com/xuxw98/ESAM) |
 | ***Embodied 3D Visual Grounding*** |||||
@@ -32,6 +36,7 @@
 | NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning | Lin *et al.* | TPAMI 2025 | [paper](https://ieeexplore.ieee.org/abstract/document/10938647) | [code](https://github.com/expectorlin/NavCoT) |
 | Dynamic Path Navigation for Motion Agents with LLM Reasoning | Zhao *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.07323) | / |
 | AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning | Yangzhe *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.07557) | / |
+| Endowing Embodied Agents with Spatial Reasoning Capabilities for Vision-and-Language Navigation | Ling *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.08806) | / |
 |  |  |  |  |  | 
 | ***Embodied Question Answering*** |||||
 | EMBOSR: Embodied Spatial Reasoning for Enhanced Situated Question Answering in 3D Scenes | Yu *et al.* | IROS 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801720) | / | 
