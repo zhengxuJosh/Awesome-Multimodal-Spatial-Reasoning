@@ -18,10 +18,6 @@
 | Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning |  Zhao *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.12680) | [code](https://github.com/EmbodiedCity/Embodied-R.code) |
 | The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models? |  Zhang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/abs/2504.04540) | / |
 | Why Is Spatial Reasoning Hard for VLMs?An Attention Mechanism Perspective on Focus Areas |  Chen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.01773) | [code](https://github.com/shiqichen17/AdaptVis) |
-<!--| ***Embodied 3D Scene Understanding*** ||||| -->
-<!--| EmbodiedSAM: Online Segment Any 3D Thing in Real Time |  Xu *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2408.11811) | [code] (https://github.com/xuxw98/ESAM) | -->
-<!--| ***Embodied 3D Visual Grounding*** ||||| -->
-|  |  |  |  |  |
 | ***Vision-language navigation (VLN)*** |||||
 | 🔥 3d-llm: Injecting the 3d world into large language models | Hong *et al.* | NIPS 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/413885e70482b95dcbeeddc1daf39177-Paper-Conference.pdf) | [code](https://github.com/UMass-Embodied-AGI/3D-LLM) |
 | Towards learning a generalist model for embodied navigation | Zheng *et al.* | CVPR2 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Towards_Learning_a_Generalist_Model_for_Embodied_Navigation_CVPR_2024_paper.pdf) | [code](https://github.com/zd11024/NaviLLM) |
@@ -59,4 +55,6 @@
 <!--|  |  |  |  |  | -->
 <!-- Embodied World Model -->
 <!-- Embodied Control -->
+<!--| ***Embodied 3D Scene Understanding*** ||||| -->
+<!--| ***Embodied 3D Visual Grounding*** ||||| -->
 <!-- |  |  |  |  |  | -->
