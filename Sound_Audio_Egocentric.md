@@ -8,7 +8,7 @@
 | V-star: Benchmarking video-llms on video spatio-temporal reasoning | Cheng *et al.* | 2025 May | [link](https://arxiv.org/pdf/2503.11495) | - |
 | Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning | Ouyang *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/Spatial-R1) | 
 | Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning | Zhao *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.12680) | [code](https://github.com/EmbodiedCity/Embodied-R.code) | 
-
+| ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | Wu *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2503.12542) | [code](https://github.com/WPR001/Ego-ST) | 
 
 ## Audio
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | 
