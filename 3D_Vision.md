@@ -22,8 +22,8 @@
 | ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning | Zhenyang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.23297) | / | VLM |
 | Unveiling the mist over 3d vision-language understanding: Object-centric evaluation with chain-of-analysis | Huang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.22420) | / | VLM |
 | 3DAxisPrompt: Promoting the 3D grounding and reasoning in GPT-4o | Liu *et al.* | Neurocomputing 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225007441) | / | VLM |
-| Grounding 3D Object Affordance with Language Instructions, Visual
- Observations and Interactions | Zhu *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.04744) | [Code](https://github.com/cn-hezhu/LMAffordance3D) | VLM |
+| Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection | Zhu *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.01401) | [Code](https://github.com/OpenRobotLab/EaSe) | VLM |
+| Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions | Zhu *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.04744) | [Code](https://github.com/cn-hezhu/LMAffordance3D) | VLM |
 
 
 ___
