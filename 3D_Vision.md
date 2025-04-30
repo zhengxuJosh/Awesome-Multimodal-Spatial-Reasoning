@@ -22,6 +22,11 @@
 | ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning | Zhenyang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.23297) | / | VLM |
 | Unveiling the mist over 3d vision-language understanding: Object-centric evaluation with chain-of-analysis | Huang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.22420) | / | VLM |
 | 3DAxisPrompt: Promoting the 3D grounding and reasoning in GPT-4o | Liu *et al.* | Neurocomputing 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225007441) | / | VLM |
+
+
+
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | Image encoder       | 3D encoder       |
+---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|------------------|------------------|
 | ***3D Scene Understanding and Layout Reasoning*** |||||
 | An Embodied Generalist Agent in 3D World | Jiangyong *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2311.12871) | [code](https://github.com/embodied-generalist/embodied-generalist) | OpenCLIP ConvNext | PointNet++ |
 | 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment | Ziyu *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2308.04352) | [code](https://github.com/3d-vista/3D-VisTA) | / | PointNet++ |
