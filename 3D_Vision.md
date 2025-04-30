@@ -24,6 +24,7 @@
 | 3DAxisPrompt: Promoting the 3D grounding and reasoning in GPT-4o | Liu *et al.* | Neurocomputing 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225007441) | / | VLM |
 
 
+___
 
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | Image encoder       | 3D encoder       |
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|------------------|------------------|
