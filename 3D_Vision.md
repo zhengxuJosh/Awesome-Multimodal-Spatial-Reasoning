@@ -60,6 +60,7 @@
 | Data-Efficient 3D Visual Grounding via Order-Aware Referring | Tung-Yu *et al.* | WACV 2025 | [paper](https://arxiv.org/pdf/2403.16539) | [code](https://github.com/tony10101105/Vigor) | VLM |
 | Grounded 3D-LLM with Referent Tokens | Chen *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.10370) | [code](https://github.com/OpenRobotLab/Grounded_3D-LLM) | VLM |
 | SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) | VLM |
+| ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities | Zhu *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2407.01525) | [code](https://github.com/ZCMax/ScanReason) | |
 | SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding | Rong *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.04383) | [code](https://github.com/iris0329/SeeGround) | VLM |
 | ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning | Zhenyang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.23297) | / | VLM |
 | ***3D Compositional Generation*** |||||
