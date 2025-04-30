@@ -7,7 +7,18 @@
 | SQA3D: Situated Question Answering in 3D Scenes | Xiaojian *et al.* | ICLR 2023 | [paper](https://arxiv.org/pdf/2210.07474) | [code](https://github.com/SilongYong/SQA3D) | / | / | / |
 | M3DBench: Let’s Instruct Large Models with Multi-modal 3D Prompts | Mingsheng *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2312.10763) | [code](https://github.com/OpenM3D/M3DBench/) | / | / | / |
 | 🔥 MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations | Lyu *et al.* | NIPS 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/5aed0d900297bd5593afc14ff452d4a8-Paper-Datasets_and_Benchmarks_Track.pdf) | [code](https://github.com/OpenRobotLab/EmbodiedScan) | / | / | / |
+| 3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination | Yang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2406.05132) | [code](https://github.com/sled-group/3D-GRAND) | / | / |
 | Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space | Weichen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.11094) | [code](https://github.com/WeichenZh/Open3DVQA) | / | / |
+| ***3D Grounding*** |||||
+| ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance | Dong *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2303.16894) | [code](https://github.com/Ivan-Tang-3D/ViewRefer3D) | / | PointNet++ |
+| Visual programming for zero-shot open-vocabulary 3d visual grounding | Yuan *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Visual_Programming_for_Zero-shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2024_paper.pdf) | [code](https://github.com/CurryYuan/ZSVG3D) | CLIP | PointNet++ + PointNeXt +  PointBERT|
+| 🔥 LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent | Yang *et al.* | ICRA 2024 | [paper](https://arxiv.org/pdf/2309.12311) | [code](https://github.com/sled-group/chat-with-nerf) | OpenScene、LERF | / ｜
+| Data-Efficient 3D Visual Grounding via Order-Aware Referring | Tung-Yu *et al.* | WACV 2025 | [paper](https://arxiv.org/pdf/2403.16539) | [code](https://github.com/tony10101105/Vigor) | VLM |
+| Grounded 3D-LLM with Referent Tokens | Chen *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.10370) | [code](https://github.com/OpenRobotLab/Grounded_3D-LLM) | VLM |
+| SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) | VLM |
+| ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities | Zhu *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2407.01525) | [code](https://github.com/ZCMax/ScanReason) | |
+| SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding | Rong *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.04383) | [code](https://github.com/iris0329/SeeGround) | VLM |
+| ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning | Zhenyang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.23297) | / | VLM |
 | ***3D Scene Understanding and Layout Reasoning*** |||||
 | An Embodied Generalist Agent in 3D World | Jiangyong *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2311.12871) | [code](https://github.com/embodied-generalist/embodied-generalist) | OpenCLIP ConvNext | PointNet++ |
 | 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment | Ziyu *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2308.04352) | [code](https://github.com/3d-vista/3D-VisTA) | / | PointNet++ |
@@ -53,15 +64,5 @@
 | Llava-3d: A simple yet effective pathway to empowering lmms with 3d-awareness | Zhu *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2409.18125) | [code](https://github.com/ZCMax/LLaVA-3D) | CLIP | LLaVA-3D |
 | 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | Jiajun *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.01163) | / | CLIP|  Sparse 3D U-Net + Omni Superpoint Transformer|
 | SplatTalk: 3D VQA with Gaussian Splatting | Thai *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.11094) | / | LLaVA-OV | Gaussian encoder |
-| ***3D Grounding*** |||||
-| ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance | Dong *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2303.16894) | [code](https://github.com/Ivan-Tang-3D/ViewRefer3D) | / | PointNet++ |
-| Visual programming for zero-shot open-vocabulary 3d visual grounding | Yuan *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Visual_Programming_for_Zero-shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2024_paper.pdf) | [code](https://github.com/CurryYuan/ZSVG3D) | CLIP | PointNet++ + PointNeXt +  PointBERT|
-| 🔥 LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent | Yang *et al.* | ICRA 2024 | [paper](https://arxiv.org/pdf/2309.12311) | [code](https://github.com/sled-group/chat-with-nerf) | OpenScene、LERF | / ｜
-| Data-Efficient 3D Visual Grounding via Order-Aware Referring | Tung-Yu *et al.* | WACV 2025 | [paper](https://arxiv.org/pdf/2403.16539) | [code](https://github.com/tony10101105/Vigor) | VLM |
-| Grounded 3D-LLM with Referent Tokens | Chen *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.10370) | [code](https://github.com/OpenRobotLab/Grounded_3D-LLM) | VLM |
-| SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) | VLM |
-| ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities | Zhu *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2407.01525) | [code](https://github.com/ZCMax/ScanReason) | |
-| SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding | Rong *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.04383) | [code](https://github.com/iris0329/SeeGround) | VLM |
-| ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning | Zhenyang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.23297) | / | VLM |
 | ***3D Compositional Generation*** |||||
 | 🔥 CityDreamer: Compositional Generative Model of Unbounded 3D Cities | Haozhe *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf) | [code](https://github.com/hzxie/CityDreamer) | LLM |
