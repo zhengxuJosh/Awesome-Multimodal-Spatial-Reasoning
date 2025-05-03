@@ -32,8 +32,7 @@
 | Agent3D-Zero: An Agent for Zero-shot 3D Understanding | Zhang *et al.* | ECCV 2024 |  |  |
 | ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | Qi *et al.* | ECCV 2024 |  |  |
 | MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors | Tang *et al.* | MM 2024 |  |  |
-| Think-Program-reCtify: 3D Situated Reasoning
-with Large Language Models | He *et al.* | Arxiv 2024 (Apr) |  |  |
+| Think-Program-reCtify: 3D Situated Reasoning with Large Language Models | He *et al.* | Arxiv 2024 (Apr) |  |  |
 | Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers | Huang *et al.* | NIPS 2024 |  |  |
 | Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models | Liu *et al.* | NIPS 2024 |  |  |
 | Multi-modal situated reasoning in 3d scenes | Linghu *et al.* | NIPS 2024 |  |  |
@@ -43,16 +42,14 @@ with Large Language Models | He *et al.* | Arxiv 2024 (Apr) |  |  |
 | 3dmit: 3d multi-modal instruction tuning for scene understanding | Li *et al.* | ICMEW 2024 |  |  |
 | Llava-3d: A simple yet effective pathway to empowering lmms with 3d-awareness | Zhu *et al.* | Arxiv 2024 (Sep) |  |  |
 | Robin3D : Improving 3D Large Language Model via Robust Instruction Tuning | Kang *et al.* | Arxiv 2024 (Oct) |  |  |
-| 3DGraphLLM: Combining Semantic Graphs and
-Large Language Models for 3D Scene Understanding | Zemskova *et al.* | Arxiv 2024 (Dec) |  |  |
+| 3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding | Zemskova *et al.* | Arxiv 2024 (Dec) |  |  |
 | SPARTUN3D: SITUATED SPATIAL UNDERSTANDING OF 3D WORLD IN LARGE LANGUAGE MODELS | Zhang *et al.* | ICLR 2025 |  |  |
 | LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Zhi *et al.* | CVPR 2025 |  |  |
 | 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | Deng *et al.* | Arxiv 2025 (Jan) |  |  |
 | GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | Qi *et al.* | Arxiv 2025 (Jan) |  |  |
 | SplatTalk: 3D VQA with Gaussian Splatting | Zhang *et al.* | Arxiv 2025 (Mar) |  |  |
 | Empowering Large Language Models with 3D Situation Awareness | Yuan *et al.* | Arxiv 2025 (Mar) |  |  |
-| Inst3D-LMM: Instance-Aware 3D Scene Understanding
-with Multi-modal Instruction Tuning | Yu *et al.* | Arxiv 2025 (Mar) |  |  |
+| Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning | Yu *et al.* | Arxiv 2025 (Mar) |  |  |
 
 
 ### 3D Generation
@@ -63,8 +60,7 @@ with Multi-modal Instruction Tuning | Yu *et al.* | Arxiv 2025 (Mar) |  |  |
 | Layout Generation Agents with Large Language Models | Sasazawa *et al.* | Arxiv 2024 (May) |  |  |
 | LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model | Yang *et al.* | Arxiv 2024 (Jun) |  |  |
 | Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM | Liao *et al.* | Arxiv 2024 (Jul) |  |  |
-| Planner3D: LLM-enhanced graph prior meets
-3D indoor scene explicit regularization | Wei *et al.* | Arxiv 2024 (Aug) |  |  |
+| Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization | Wei *et al.* | Arxiv 2024 (Aug) |  |  |
 | EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing | Zheng *et al.* | Arxiv 2024 (Oct) |  |  |
 | Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint | Zhou *et al.* | ICLR 2025 |  |  |
 | LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models | Sun *et al.* | CVPR 2025 |  |  |
@@ -77,14 +73,18 @@ with Multi-modal Instruction Tuning | Yu *et al.* | Arxiv 2025 (Mar) |  |  |
 | ***3D Generation as Program*** |||||
 | 3d-gpt: Procedural 3d modeling with large language models | Sun *et al.* | Arxiv 2023 (Oct) |  |  |
 | SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code | Hu *et al.* | ICML 2024 |  |  |
-| SceneMotifCoder: Example-driven Visual Program Learning
-for Generating 3D Object Arrangements | Tam *et al.* | 3DV 2025 |  |  |
+| SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements | Tam *et al.* | 3DV 2025 |  |  |
 | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | Wang *et al.* | AAAI 2025 |  |  |
 | From 2d cad drawings to 3d parametric models: A vision-language approach | Wang *et al.* | AAAI 2025 |  |  |
 | CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images | Chen *et al.* | CVPR 2025 |  |  |
 | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | Rukhovich *et al.* | Arxiv 2024 (Dec) |  |  |
-| ShapeLib: Designing a library of procedural 3D shape abstractions
-with Large Language Models | JONES *et al.* | Arxiv 2025 (Feb) |  |  |
+| ShapeLib: Designing a library of procedural 3D shape abstractions with Large Language Models | JONES *et al.* | Arxiv 2025 (Feb) |  |  |
+
+
+
+
+
+
 
 ___
 
