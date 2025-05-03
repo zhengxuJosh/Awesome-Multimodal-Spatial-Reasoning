@@ -45,7 +45,7 @@
 | 3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding | Zemskova *et al.* | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.18450) | [code](https://github.com/CognitiveAISystems/3DGraphLLM) |
 | SPARTUN3D: SITUATED SPATIAL UNDERSTANDING OF 3D WORLD IN LARGE LANGUAGE MODELS | Zhang *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.03878) | / |
 | LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Zhi *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.01292v1) | [code](https://github.com/Hoyyyaard/LSceneLLM) |
-| 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | Deng *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.01163) | / |
+| 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | Deng *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2501.01163) | / |
 | GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | Qi *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.01428) | [code](https://github.com/Qi-Zhangyang/gpt4scene) |
 | SplatTalk: 3D VQA with Gaussian Splatting | Zhang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.06271) | / |
 | Empowering Large Language Models with 3D Situation Awareness | Yuan *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.23024) | / |
