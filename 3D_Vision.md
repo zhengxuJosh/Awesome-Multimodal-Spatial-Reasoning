@@ -23,33 +23,33 @@
 ### 3D Scene Reasoning and QA
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
-| 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment | Zhu *et al.* | ICCV 2023 |  |  |
-| Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes | Wang *et al.* | Arxiv 2023 (Aug) |  |  |
-| Situational awareness matters in 3d vision language reasoning | Man *et al.* | CVPR 2024 |  |  |
-| Ll3da: Visual interactive instruction tuning for omni-3d understanding reasoning and planning | Chen *et al.* | CVPR 2024 |  |  |
-| Gpt4point: A unified framework for point-language understanding and generation | Qi *et al.* | CVPR 2024 |  |  |
-| An Embodied Generalist Agent in 3D World | Huang *et al.* | ICML 2024 |  |  |
-| Agent3D-Zero: An Agent for Zero-shot 3D Understanding | Zhang *et al.* | ECCV 2024 |  |  |
-| ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | Qi *et al.* | ECCV 2024 |  |  |
-| MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors | Tang *et al.* | MM 2024 |  |  |
-| Think-Program-reCtify: 3D Situated Reasoning with Large Language Models | He *et al.* | Arxiv 2024 (Apr) |  |  |
-| Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers | Huang *et al.* | NIPS 2024 |  |  |
-| Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models | Liu *et al.* | NIPS 2024 |  |  |
-| Multi-modal situated reasoning in 3d scenes | Linghu *et al.* | NIPS 2024 |  |  |
-| SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors | Ma *et al.* | NIPS 2024 |  |  |
-| 3UR-LLM: An End-to-End Multimodal Large Language Model for 3D Scene Understand | Xiong *et al.* | TMM 2025 |  |  |
-| Scene-llm: Extending language model for 3d visual understanding and reasoning | Fu *et al.* | WACV 2025 |  |  |
-| 3dmit: 3d multi-modal instruction tuning for scene understanding | Li *et al.* | ICMEW 2024 |  |  |
-| Llava-3d: A simple yet effective pathway to empowering lmms with 3d-awareness | Zhu *et al.* | Arxiv 2024 (Sep) |  |  |
-| Robin3D : Improving 3D Large Language Model via Robust Instruction Tuning | Kang *et al.* | Arxiv 2024 (Oct) |  |  |
-| 3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding | Zemskova *et al.* | Arxiv 2024 (Dec) |  |  |
-| SPARTUN3D: SITUATED SPATIAL UNDERSTANDING OF 3D WORLD IN LARGE LANGUAGE MODELS | Zhang *et al.* | ICLR 2025 |  |  |
-| LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Zhi *et al.* | CVPR 2025 |  |  |
-| 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | Deng *et al.* | Arxiv 2025 (Jan) |  |  |
-| GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | Qi *et al.* | Arxiv 2025 (Jan) |  |  |
-| SplatTalk: 3D VQA with Gaussian Splatting | Zhang *et al.* | Arxiv 2025 (Mar) |  |  |
-| Empowering Large Language Models with 3D Situation Awareness | Yuan *et al.* | Arxiv 2025 (Mar) |  |  |
-| Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning | Yu *et al.* | Arxiv 2025 (Mar) |  |  |
+| 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment | Zhu *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2308.04352) | [code](https://github.com/3d-vista/3D-VisTA) |
+| Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes | Wang *et al.* | Arxiv 2023 (Aug) | [paper](https://arxiv.org/pdf/2308.08769) | [code](https://github.com/Chat-3D/Chat-3D) |
+| Situational awareness matters in 3d vision language reasoning | Man *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Man_Situational_Awareness_Matters_in_3D_Vision_Language_Reasoning_CVPR_2024_paper.pdf) | [code](https://github.com/YunzeMan/Situation3D) |
+| Ll3da: Visual interactive instruction tuning for omni-3d understanding reasoning and planning | Chen *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LL3DA_Visual_Interactive_Instruction_Tuning_for_Omni-3D_Understanding_Reasoning_and_CVPR_2024_paper.pdf) | [code](https://github.com/Open3DA/LL3DA) |
+| Gpt4point: A unified framework for point-language understanding and generation | Qi *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_GPT4Point_A_Unified_Framework_for_Point-Language_Understanding_and_Generation_CVPR_2024_paper.pdf) | [code](https://github.com/Pointcept/GPT4Point) |
+| An Embodied Generalist Agent in 3D World | Huang *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2311.12871) | [code](https://github.com/embodied-generalist/embodied-generalist) |
+| Agent3D-Zero: An Agent for Zero-shot 3D Understanding | Zhang *et al.* | ECCV 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02877.pdf) | / |
+| ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | Qi *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2402.17766) | [code](https://github.com/qizekun/ShapeLLM) |
+| MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors | Tang *et al.* | MM 2024 | [paper](https://arxiv.org/pdf/2405.01413) | [code](https://github.com/TangYuan96/MiniGPT-3D) |
+| Think-Program-reCtify: 3D Situated Reasoning with Large Language Models | He *et al.* | Arxiv 2024 (Apr) | [paper](https://arxiv.org/pdf/2404.14705) | [code](https://github.com/QingrongH/LLM-TPC) |
+| Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers | Huang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2312.08168) | [code](https://github.com/ZzZZCHS/Chat-Scene) |
+| Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models | Liu *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2402.03327) | / |
+| Multi-modal situated reasoning in 3d scenes | Linghu *et al.* | NIPS 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/feaeec8ec2d3cb131fe18517ff14ec1f-Paper-Datasets_and_Benchmarks_Track.pdf) | [code](https://github.com/MSR3D/MSR3D) |
+| SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors | Ma *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2403.13438) | [code](https://github.com/dannymcy/zeroshot_task_hallucination_code?tab=readme-ov-file) |
+| 3UR-LLM: An End-to-End Multimodal Large Language Model for 3D Scene Understand | Xiong *et al.* | TMM 2025 | [paper](https://arxiv.org/pdf/2501.07819) | [code](https://github.com/hmxiong/3UR-LLM) |
+| Scene-llm: Extending language model for 3d visual understanding and reasoning | Fu *et al.* | WACV 2025 | [paper](https://arxiv.org/pdf/2403.11401) | / |
+| 3dmit: 3d multi-modal instruction tuning for scene understanding | Li *et al.* | ICMEW 2024 | [paper](https://arxiv.org/pdf/2401.03201) | [code](https://github.com/staymylove/3DMIT) |
+| Llava-3d: A simple yet effective pathway to empowering lmms with 3d-awareness | Zhu *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2409.18125) | [code](https://github.com/ZCMax/LLaVA-3D) |
+| Robin3D : Improving 3D Large Language Model via Robust Instruction Tuning | Kang *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/pdf/2410.00255) | [code](https://github.com/WeitaiKang/Robin3D) |
+| 3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding | Zemskova *et al.* | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.18450) | [code](https://github.com/CognitiveAISystems/3DGraphLLM) |
+| SPARTUN3D: SITUATED SPATIAL UNDERSTANDING OF 3D WORLD IN LARGE LANGUAGE MODELS | Zhang *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.03878) | / |
+| LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Zhi *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.01292v1) | [code](https://github.com/Hoyyyaard/LSceneLLM) |
+| 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | Deng *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.01163) | / |
+| GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | Qi *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.01428) | [code](https://github.com/Qi-Zhangyang/gpt4scene) |
+| SplatTalk: 3D VQA with Gaussian Splatting | Zhang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.06271) | / |
+| Empowering Large Language Models with 3D Situation Awareness | Yuan *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.23024) | / |
+| Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning | Yu *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.00513) | [code](https://github.com/hanxunyu/Inst3D-LMM) |
 
 
 ### 3D Generation
@@ -114,24 +114,6 @@ ___
 | SPARTUN3D: SITUATED SPATIAL UNDERSTANDING OF 3D WORLD IN LARGE LANGUAGE MODELS | Yue *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.03878) | / | / | PointNet++ |
 | LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Hongyan *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.01292v1) | [code](https://github.com/Hoyyyaard/LSceneLLM) | / | Openscene |
 | 3UR-LLM: An End-to-End Multimodal Large Language Model for 3D Scene Understand | Haomiao *et al.* | TMM 2025 | [paper](https://arxiv.org/pdf/2501.07819) | [code](https://github.com/hmxiong/3UR-LLM) | / | 3DETR |
-| ***3D SLAM and Modeling*** |||||
-| ConceptFusion: Open-set Multimodal 3D Mapping | Jatavallabhula *et al.* | RSS 2023 | [paper](https://arxiv.org/pdf/2302.07241) | [code](https://github.com/concept-fusion/concept-fusion) | CLIP | / |
-| Lp-slam: language-perceptive RGB-D SLAM framework exploiting large language model | Zhang *et al.* | Arxiv 2023 (Mar) | [paper](https://arxiv.org/abs/2303.10089) | / | / | / |
-| 🔥 LERF: Language Embedded Radiance Fields | Kerr *et al.* | ICCV 2023 (Oral) | [paper](https://arxiv.org/pdf/2303.09553) | [code](https://github.com/kerrj/lerf) | CLIP + DINO | / |
-| Weakly Supervised 3D Open-vocabulary Segmentation | Kunhao *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2305.14093) | [code](https://github.com/Kunhao-Liu/3D-OVS) | CLIP + DINO | / |
-| OpenMask3D: Open-Vocabulary 3D Instance Segmentation | Takmaz *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2306.13631) | [code](https://github.com/OpenMask3D/openmask3d) | CLIP + DINO | / |
-| Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding | Jin-Chuan *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2311.18482) | [code](https://github.com/buaavrcg/LEGaussians) | CLIP + DINO | / |
-| 🔥 LangSplat: 3D Language Gaussian Splatting | Minghan *et al.* | CVPR 2024 (Highlight) | [paper](https://arxiv.org/pdf/2312.16084) | [code](https://github.com/minghanqin/LangSplat) | CLIP | / |
-| 🔥 Gaussian Grouping: Segment and Edit Anything in 3D Scenes | Mingqiao *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2312.00732) | [code](https://github.com/lkeab/gaussian-grouping) | / | / |
-| Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding | Kassab *et al.* | ICRA 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10610341) | / | CLIP | / |
-| GARField: Group Anything with Radiance Fields | Chung Min *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2401.09419) | [code](https://github.com/chungmin99/garfield) | / | / |
-| FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping | Yuzhou *et al.* | AAAI 2025 | [paper](https://arxiv.org/pdf/2406.01916) | [code](https://github.com/George-Attano/FastLGS-Ex) | CLIP | / |
-| OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding | Yanmin *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.02058) | [code](https://github.com/yanmin-wu/OpenGaussian) | CLIP | / |
-| Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models | Hong *et al.* | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.06752) | / | / | / |
-| LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding | Hao *et al.* | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.17635) | [code](https://github.com/lifuguan/LangSurf) | OpenSeg + CLIP | / |
-| SLGaussian: Fast Language Gaussian Splatting in Sparse Views | Kangjie *et al.* | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.08331) | / | CLIP | / |
-| Open-NeRF: Towards Open Vocabulary NeRF Decomposition | Hao *et al.* | WACV 2024 | [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Open-NeRF_Towards_Open_Vocabulary_NeRF_Decomposition_WACV_2024_paper.pdf) | / |  CLIP | / |
-| SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints | Weiwen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.15712) | / |CLIP | / |
 | ***VQA*** |||||
 | Context-aware Alignment and Mutual Masking for 3D-Language Pre-training | Zhao *et al.* | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.pdf) | [code](https://github.com/leolyj/3D-VLP) | / | PointNet++ + VoteNet |
 | 3D Concept Learning and Reasoning from Multi-View Images | Yining *et al.* | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hong_3D_Concept_Learning_and_Reasoning_From_Multi-View_Images_CVPR_2023_paper.pdf) | [code](https://github.com/evelinehong/3D-CLR-Official) | CLIP + CLIP-LSeg | / |
