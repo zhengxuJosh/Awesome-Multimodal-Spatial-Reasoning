@@ -5,6 +5,7 @@
 |---------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------|------------------|
 | VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs | Cheng *et al.* | 2024 Oct. | [link](https://arxiv.org/pdf/2406.07476) | [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2) |
 | VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs | Liao *et al.* | ACL 2024 Findings | [link](https://arxiv.org/pdf/2409.20365) | - |
+| Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces | Yang *et al.* | 2024 Dec | [link](https://arxiv.org/pdf/2412.14171) | [code](https://github.com/vision-x-nyu/thinking-in-space) | 
 | Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning | Ouyang *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/Spatial-R1) | 
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | 2025 Mar | [link](https://arxiv.org/pdf/2503.21776) | [code](https://github.com/tulerfeng/Video-R1) | 
 | AETHER: Geometric-Aware Unified World Modeling | Aether Team & Shanghai AI Lab| 2025 Mar | [link](https://arxiv.org/pdf/2503.18945) | [code](https://aether-world.github.io/) | 
