@@ -5,11 +5,12 @@
 |---------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------|------------------|
 | VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs | Cheng *et al.* | 2024 Oct. | [link](https://arxiv.org/pdf/2406.07476) | [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2) |
 | VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs | Liao *et al.* | ACL 2024 Findings | [link](https://arxiv.org/pdf/2409.20365) | - |
-| V-star: Benchmarking video-llms on video spatio-temporal reasoning | Cheng *et al.* | 2025 May | [link](https://arxiv.org/pdf/2503.11495) | - |
 | Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning | Ouyang *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/Spatial-R1) | 
+| Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | 2025 Mar | [link](https://arxiv.org/pdf/2503.21776) | [code](https://github.com/tulerfeng/Video-R1) | 
 | ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | Wu *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2503.12542) | [code](https://github.com/WPR001/Ego-ST) | 
 | VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning | Qi *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.07956) | [code](https://github.com/zhishuifeiqian/VCR-Bench) |
 | Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Liao *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.00883) | [code](https://github.com/zhijie-group/R1-Zero-VSI) |
+| V-star: Benchmarking video-llms on video spatio-temporal reasoning | Cheng *et al.* | 2025 May | [link](https://arxiv.org/pdf/2503.11495) | - |
 
 ## Egocentric Video
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | 
