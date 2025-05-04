@@ -9,6 +9,7 @@
 | Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning | Ouyang *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/Spatial-R1) | 
 | ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | Wu *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2503.12542) | [code](https://github.com/WPR001/Ego-ST) | 
 | VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning | Qi *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.07956) | [code](https://github.com/zhishuifeiqian/VCR-Bench) |
+| Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Liao *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.00883) | [code](https://github.com/zhijie-group/R1-Zero-VSI) |
 
 ## Egocentric Video
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | 
