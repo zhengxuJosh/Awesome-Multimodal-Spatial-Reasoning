@@ -56,29 +56,29 @@
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | ***3D Layout Generation*** |||||
-| Layoutgpt: Compositional visual planning and generation with large language models | Feng *et al.* | NIPS 2023 |  |  |
-| Layout Generation Agents with Large Language Models | Sasazawa *et al.* | Arxiv 2024 (May) |  |  |
-| LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model | Yang *et al.* | Arxiv 2024 (Jun) |  |  |
-| Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM | Liao *et al.* | Arxiv 2024 (Jul) |  |  |
-| Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization | Wei *et al.* | Arxiv 2024 (Aug) |  |  |
-| EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing | Zheng *et al.* | Arxiv 2024 (Oct) |  |  |
-| Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint | Zhou *et al.* | ICLR 2025 |  |  |
-| LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models | Sun *et al.* | CVPR 2025 |  |  |
+| Layoutgpt: Compositional visual planning and generation with large language models | Feng *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2305.15393) | [code](https://github.com/weixi-feng/LayoutGPT) |
+| Layout Generation Agents with Large Language Models | Sasazawa *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.08037) | [code](https://github.com/ckdjrkffz/layout-agent) |
+| LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model | Yang *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2406.03866) | / |
+| Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM | Liao *et al.* | Arxiv 2024 (Jul) | [paper](https://arxiv.org/pdf/2407.21333) | / |
+| Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization | Wei *et al.* | Arxiv 2024 (Aug) | [paper](https://arxiv.org/pdf/2403.12848v2) | [code](https://github.com/weiyao1996/Planner3D) |
+| EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing | Zheng *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.12836) | [code](https://github.com/eric-ai-lab/EditRoom) |
+| Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint | Zhou *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.15391) | [code](https://github.com/Colezwhy/Layout-Your-3D) |
+| LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models | Sun *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.02193) | [code](https://github.com/sunfanyunn/LayoutVLM) |
 | ***3D Scene Generation*** |||||
-| Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback | Lin *et al.* | Arxiv 2023 (May) |  |  |
-| Gala3d: Towards text-to-3d complex scene generation via layout-guided generative gaussian splatting | Zhou *et al.* | ICML 2024 |  |  |
-| SceneTeller: Language-to-3D Scene Generation |  Öcal *et al.* | ECCV 2024 |  |  |
-| Compositional 3D-aware Video Generation with LLM Director | Zhu *et al.* | NIPS 2024 |  |  |
-| Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model | Sun *et al.* | AAAI 2025 |  |  |
+| Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback | Lin *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2305.15808) | / |
+| Gala3d: Towards text-to-3d complex scene generation via layout-guided generative gaussian splatting | Zhou *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2402.07207) | [code](https://github.com/VDIGPKU/GALA3D) |
+| SceneTeller: Language-to-3D Scene Generation |  Öcal *et al.* | ECCV 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11481.pdf) | [code](https://github.com/sceneteller/SceneTeller) |
+| Compositional 3D-aware Video Generation with LLM Director | Zhu *et al.* | NIPS 2024 | [paper](https://papers.nips.cc/paper_files/paper/2024/file/edbeca7811f9365c924c72a8a9bce83a-Paper-Conference.pdf) | / |
+| Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model | Sun *et al.* | AAAI 2025 | [paper](https://arxiv.org/pdf/2502.10675) | / |
 | ***3D Generation as Program*** |||||
-| 3d-gpt: Procedural 3d modeling with large language models | Sun *et al.* | Arxiv 2023 (Oct) |  |  |
-| SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code | Hu *et al.* | ICML 2024 |  |  |
-| SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements | Tam *et al.* | 3DV 2025 |  |  |
-| CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | Wang *et al.* | AAAI 2025 |  |  |
-| From 2d cad drawings to 3d parametric models: A vision-language approach | Wang *et al.* | AAAI 2025 |  |  |
-| CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images | Chen *et al.* | CVPR 2025 |  |  |
-| CAD-Recode: Reverse Engineering CAD Code from Point Clouds | Rukhovich *et al.* | Arxiv 2024 (Dec) |  |  |
-| ShapeLib: Designing a library of procedural 3D shape abstractions with Large Language Models | JONES *et al.* | Arxiv 2025 (Feb) |  |  |
+| 🔥 3d-gpt: Procedural 3d modeling with large language models | Sun *et al.* | Arxiv 2023 (Oct) | [paper](https://arxiv.org/pdf/2310.12945) | [code](https://github.com/Chuny1/3DGPT) |
+| SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code | Hu *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2403.01248) | / |
+| SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements | Tam *et al.* | 3DV 2025 | [paper](https://arxiv.org/pdf/2408.02211) | [code](https://github.com/3dlg-hcvc/smc) |
+| CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | Wang *et al.* | AAAI 2025 | [paper](https://arxiv.org/pdf/2412.19663) | [code](https://github.com/SiyuWang0906/CAD-GPT) |
+| From 2d cad drawings to 3d parametric models: A vision-language approach | Wang *et al.* | AAAI 2025 | [paper](https://arxiv.org/pdf/2412.11892) | / |
+| CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images | Chen *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2504.04753) | / |
+| CAD-Recode: Reverse Engineering CAD Code from Point Clouds | Rukhovich *et al.* | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.14042) | [code](https://github.com/filaPro/cad-recode) |
+| ShapeLib: Designing a library of procedural 3D shape abstractions with Large Language Models | JONES *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.08884) | / |
 
 
 
