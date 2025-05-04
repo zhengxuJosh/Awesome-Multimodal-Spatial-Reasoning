@@ -10,6 +10,11 @@
 | ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | Wu *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2503.12542) | [code](https://github.com/WPR001/Ego-ST) | 
 | VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning | Qi *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.07956) | [code](https://github.com/zhishuifeiqian/VCR-Bench) |
 
+## Egocentric Video
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | 
+|---------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------|------------------|
+| Advancing Egocentric Video Question Answering with Multimodal Large Language Models | Patel  *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.04550) | - | 
+
 ## Audio
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | 
 |---------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------|------------------|
