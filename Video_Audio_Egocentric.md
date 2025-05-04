@@ -21,6 +21,7 @@
 |---------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------|------------------|
 | Advancing Egocentric Video Question Answering with Multimodal Large Language Models | Patel  *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2504.04550) | - | 
 | ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | Wu *et al.* | 2025 Apr | [link](https://arxiv.org/pdf/2503.12542) | [code](https://github.com/WPR001/Ego-ST) | 
+| AlanaVLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding | Suglia *et al.* | 2024 June | [link](https://arxiv.org/pdf/2406.13807) | [code](https://github.com/alanaai/EVUD) | 
 
 ## Audio
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | 
