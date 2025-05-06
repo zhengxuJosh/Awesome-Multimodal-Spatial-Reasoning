@@ -47,6 +47,9 @@
 | OpenVLA: An Open-Source Vision-Language-Action Model |  Kim *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2406.09246) | [Code](https://github.com/openvla/openvla) |
 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | Brohan *et al.* | CoRL 2023 | [paper](https://arxiv.org/pdf/2307.15818) | / |
 | 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations |  Ke *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2402.10885) | [Code](https://github.com/nickgkan/3d_diffuser_actor) |
+| SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model | Qu *et al.* | RSS 2025 | [paper](https://arxiv.org/abs/2501.15830) | [Code](https://github.com/SpatialVLA/SpatialVLA) |
+| Gemini Robotics: Bringing AI into the Physical World | Gemini Robotics Team *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2503.20020) | / |
+| π0: A Vision-Language-Action Flow Model for General Robot Control | Black *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/abs/2410.24164v1) | [Code](https://github.com/Physical-Intelligence/openpi) |
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
 | UniSim: Learning Interactive Real-World Simulators | Yangzhe *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2310.06114) | / |
