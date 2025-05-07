@@ -66,7 +66,7 @@
 | Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint | Zhou *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.15391) | [code](https://github.com/Colezwhy/Layout-Your-3D) |
 | LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models | Sun *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.02193) | [code](https://github.com/sunfanyunn/LayoutVLM) |
 | ***3D Scene Generation*** |||||
-| Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback | Lin *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2305.15808) | / |
+| Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback | Lin *et al.* | Arxiv 2023 (May) | [paper](https://arxiv.org/pdf/2305.15808) | / |
 | Gala3d: Towards text-to-3d complex scene generation via layout-guided generative gaussian splatting | Zhou *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2402.07207) | [code](https://github.com/VDIGPKU/GALA3D) |
 | SceneTeller: Language-to-3D Scene Generation |  Öcal *et al.* | ECCV 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11481.pdf) | [code](https://github.com/sceneteller/SceneTeller) |
 | Compositional 3D-aware Video Generation with LLM Director | Zhu *et al.* | NIPS 2024 | [paper](https://papers.nips.cc/paper_files/paper/2024/file/edbeca7811f9365c924c72a8a9bce83a-Paper-Conference.pdf) | / |
