@@ -50,7 +50,7 @@
 | SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model | Qu *et al.* | RSS 2025 | [paper](https://arxiv.org/abs/2501.15830) | [Code](https://github.com/SpatialVLA/SpatialVLA) |
 | Gemini Robotics: Bringing AI into the Physical World | Gemini Robotics Team *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2503.20020) | / |
 | π0: A Vision-Language-Action Flow Model for General Robot Control | Black *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/abs/2410.24164v1) | [Code](https://github.com/Physical-Intelligence/openpi) |
-| π0.5: a Vision-Language-Action Model with Open-World Generalization | | [paper](https://arxiv.org/abs/2504.16054) | / |
+| π0.5: a Vision-Language-Action Model with Open-World Generalization | Physical Intelligence | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2504.16054) | / |
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
 | UniSim: Learning Interactive Real-World Simulators | Yangzhe *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2310.06114) | / |
