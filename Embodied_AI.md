@@ -35,6 +35,8 @@
 |  |  |  |  |  | 
 | ***Embodied Question Answering*** |||||
 | EMBOSR: Embodied Spatial Reasoning for Enhanced Situated Question Answering in 3D Scenes | Yu *et al.* | IROS 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801720) | / | 
+| Knowledge-based embodied question answering | Tan *et al.* | TPAMI 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10128752) | / | 
+| OpenEQA: Embodied Question Answering in the Era of Foundation Models | Majumdar *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) | [Code](https://github.com/facebookresearch/open-eqa) | 
 | ***Embodied Grasping*** |||||
 | Free-form language-based robotic reasoning and grasping | Runyu *et al.* | Arxiv 2025(Mar) | [paper](https://arxiv.org/pdf/2503.13082) | / | 
 | ***Vision-language-action models (VLAs)*** |||||
