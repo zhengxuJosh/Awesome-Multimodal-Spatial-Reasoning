@@ -30,7 +30,7 @@
 | TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation | Zhong *et al.* | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.16425) | / |
 | NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning | Lin *et al.* | TPAMI 2025 | [paper](https://ieeexplore.ieee.org/abstract/document/10938647) | [code](https://github.com/expectorlin/NavCoT) |
 | Dynamic Path Navigation for Motion Agents with LLM Reasoning | Zhao *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.07323) | / |
-| AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning | Yangzhe *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.07557) | / |
+| AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning | Kong *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.07557) | / |
 | Endowing Embodied Agents with Spatial Reasoning Capabilities for Vision-and-Language Navigation | Ling *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.08806) | / |
 |  |  |  |  |  | 
 | ***Embodied Question Answering*** |||||
@@ -38,7 +38,8 @@
 | Knowledge-based embodied question answering | Tan *et al.* | TPAMI 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10128752) | / | 
 | OpenEQA: Embodied Question Answering in the Era of Foundation Models | Majumdar *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) | [Code](https://github.com/facebookresearch/open-eqa) | 
 | ***Embodied Grasping*** |||||
-| Free-form language-based robotic reasoning and grasping | Runyu *et al.* | Arxiv 2025(Mar) | [paper](https://arxiv.org/pdf/2503.13082) | / | 
+| Free-form language-based robotic reasoning and grasping | Jiao *et al.* | Arxiv 2025(Mar) | [paper](https://arxiv.org/pdf/2503.13082) | / | 
+| ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter | Qian *et al.* | Arxiv 2024(July) | [paper](https://arxiv.org/pdf/2503.13082) | [Code](https://github.com/H-Freax/ThinkGrasp) | 
 | ***Vision-language-action models (VLAs)*** |||||
 | ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation | Huang *et al.* | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2409.01652) | [Code](https://github.com/huangwl18/ReKep) |
 | PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs | Nasiriany *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2402.07872v1) | / |
@@ -58,7 +59,7 @@
 | ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge | Zhou *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/abs/2505.21906) | / |
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
-| UniSim: Learning Interactive Real-World Simulators | Yangzhe *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2310.06114) | / |
+| UniSim: Learning Interactive Real-World Simulators | Yang *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2310.06114) | / |
 |  |  |  |  |  |
 <!--| ***Embodied Control*** ||||| -->
 <!--|  |  |  |  |  | -->
