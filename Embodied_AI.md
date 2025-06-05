@@ -60,7 +60,8 @@
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
 | UniSim: Learning Interactive Real-World Simulators | Yang *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2310.06114) | / |
-|  |  |  |  |  |
+| EVA: An Embodied World Model for Future Video Anticipation | Chi *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/pdf/2410.15461) | / |
+| TesserAct: Learning 4D Embodied World Models | Zhen *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.20995) | [Code](https://github.com/UMass-Embodied-AGI/TesserAct) |
 <!--| ***Embodied Control*** ||||| -->
 <!--|  |  |  |  |  | -->
 <!-- Embodied World Model -->
