@@ -55,11 +55,12 @@
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | ***3D Layout Generation*** |||||
 | Layoutgpt: Compositional visual planning and generation with large language models | Feng *et al.* | NIPS 2023 | [paper](https://arxiv.org/pdf/2305.15393) | [code](https://github.com/weixi-feng/LayoutGPT) |
+| HOLODECK: Language Guided Generation of 3D Embodied AI Environments | Yang *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2312.09067) | [code](https://github.com/allenai/Holodeck) |
+| I-Design: Personalized LLM Interior Designer | Celen *et al.* | Arxiv 2024 (Apr) | [paper](https://arxiv.org/pdf/2404.02838) | [code](https://github.com/atcelen/IDesign/) |
 | Layout Generation Agents with Large Language Models | Sasazawa *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.08037) | [code](https://github.com/ckdjrkffz/layout-agent) |
 | LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model | Yang *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2406.03866) | / |
 | Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM | Liao *et al.* | Arxiv 2024 (Jul) | [paper](https://arxiv.org/pdf/2407.21333) | / |
 | Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization | Wei *et al.* | Arxiv 2024 (Aug) | [paper](https://arxiv.org/pdf/2403.12848v2) | [code](https://github.com/weiyao1996/Planner3D) |
-| EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing | Zheng *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.12836) | [code](https://github.com/eric-ai-lab/EditRoom) |
 | Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint | Zhou *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.15391) | [code](https://github.com/Colezwhy/Layout-Your-3D) |
 | LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models | Sun *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.02193) | [code](https://github.com/sunfanyunn/LayoutVLM) |
 | ***3D Scene Generation*** |||||
