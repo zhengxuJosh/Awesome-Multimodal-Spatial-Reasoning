@@ -69,6 +69,7 @@
 | SceneTeller: Language-to-3D Scene Generation |  Öcal *et al.* | ECCV 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11481.pdf) | [code](https://github.com/sceneteller/SceneTeller) |
 | Compositional 3D-aware Video Generation with LLM Director | Zhu *et al.* | NIPS 2024 | [paper](https://papers.nips.cc/paper_files/paper/2024/file/edbeca7811f9365c924c72a8a9bce83a-Paper-Conference.pdf) | / |
 | Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model | Sun *et al.* | AAAI 2025 | [paper](https://arxiv.org/pdf/2502.10675) | / |
+| Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation | Ling *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.02836v1) | / |
 | ***3D Generation as Program*** |||||
 | 🔥 3d-gpt: Procedural 3d modeling with large language models | Sun *et al.* | Arxiv 2023 (Oct) | [paper](https://arxiv.org/pdf/2310.12945) | [code](https://github.com/Chuny1/3DGPT) |
 | SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code | Hu *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2403.01248) | / |
