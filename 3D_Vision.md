@@ -18,7 +18,7 @@
 | 3DAxisPrompt: Promoting the 3D grounding and reasoning in GPT-4o | Liu *et al.* | Neurocomputing 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225007441) | / |
 | CityAnchor: City-scale 3D Visual Grounding with Multi-modality LLMs | Li *et al.* | ICLR 2025 | [paper](https://openreview.net/pdf?id=7nOl5W6xU4) | [code](https://github.com/WHU-USI3DV/CityAnchor) |
 | Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection | Zhu *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.01401) | [Code](https://github.com/OpenRobotLab/EaSe) |
-| Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions | Zhu *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2504.04744) | [Code](https://github.com/cn-hezhu/LMAffordance3D) |
+
 
 
 ### 3D Scene Reasoning and QA
