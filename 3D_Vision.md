@@ -63,6 +63,7 @@
 | Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization | Wei *et al.* | Arxiv 2024 (Aug) | [paper](https://arxiv.org/pdf/2403.12848v2) | [code](https://github.com/weiyao1996/Planner3D) |
 | Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint | Zhou *et al.* | ICLR 2025 | [paper](https://arxiv.org/pdf/2410.15391) | [code](https://github.com/Colezwhy/Layout-Your-3D) |
 | LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models | Sun *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.02193) | [code](https://github.com/sunfanyunn/LayoutVLM) |
+| Diorama: Unleashing Zero-shot Single-view 3D Indoor Scene Modeling | Wu *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2411.19492) | [code](https://github.com/3dlg-hcvc/diorama) |
 | ***3D Scene Generation*** |||||
 | Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback | Lin *et al.* | Arxiv 2023 (May) | [paper](https://arxiv.org/pdf/2305.15808) | / |
 | Towards Text-guided 3D Scene Composition | Zhang *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Towards_Text-guided_3D_Scene_Composition_CVPR_2024_paper.pdf) | [code](https://github.com/zqh0253/SceneWiz3D) |
