@@ -79,6 +79,7 @@
 | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs | Wang *et al.* | AAAI 2025 | [paper](https://arxiv.org/pdf/2412.19663) | [code](https://github.com/SiyuWang0906/CAD-GPT) |
 | From 2d cad drawings to 3d parametric models: A vision-language approach | Wang *et al.* | AAAI 2025 | [paper](https://arxiv.org/pdf/2412.11892) | / |
 | CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images | Chen *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2504.04753) | / |
+| CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation | Li *et al.* | CVPR 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CAD-Llama_Leveraging_Large_Language_Models_for_Computer-Aided_Design_Parametric_3D_CVPR_2025_paper.pdf) | / |
 | CAD-Recode: Reverse Engineering CAD Code from Point Clouds | Rukhovich *et al.* | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.14042) | [code](https://github.com/filaPro/cad-recode) |
 | ShapeLib: Designing a library of procedural 3D shape abstractions with Large Language Models | JONES *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.08884) | / |
 
