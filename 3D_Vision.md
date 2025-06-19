@@ -24,7 +24,6 @@
 ### 3D Scene Reasoning and QA
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
-| 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment | Zhu *et al.* | ICCV 2023 | [paper](https://arxiv.org/pdf/2308.04352) | [code](https://github.com/3d-vista/3D-VisTA) |
 | Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes | Wang *et al.* | Arxiv 2023 (Aug) | [paper](https://arxiv.org/pdf/2308.08769) | [code](https://github.com/Chat-3D/Chat-3D) |
 | Situational awareness matters in 3d vision language reasoning | Man *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Man_Situational_Awareness_Matters_in_3D_Vision_Language_Reasoning_CVPR_2024_paper.pdf) | [code](https://github.com/YunzeMan/Situation3D) |
 | Ll3da: Visual interactive instruction tuning for omni-3d understanding reasoning and planning | Chen *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LL3DA_Visual_Interactive_Instruction_Tuning_for_Omni-3D_Understanding_Reasoning_and_CVPR_2024_paper.pdf) | [code](https://github.com/Open3DA/LL3DA) |
