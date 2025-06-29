@@ -6,7 +6,7 @@
 | SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Liu *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.10074) | / |
 | SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities | Chen *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf) | [code](https://github.com/remyxai/VQASynth) |
 | SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Yang *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://github.com/AnjieCheng/SpatialRGPT) |
-| SpatialBot: Precise Spatial Understanding with Vision Language Models | Cai *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2406.13642) | [code](https://github.com/BAAI-DCAI/SpatialBot) |
+| SpatialBot: Precise Spatial Understanding with Vision Language Models | Cai *et al.* | ICRA 2025 | [paper](https://arxiv.org/pdf/2406.13642) | [code](https://github.com/BAAI-DCAI/SpatialBot) |
 | RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics | Song *et al.* | ICLR 2025 (Workshop) | [paper](https://arxiv.org/pdf/2411.16537) | / |
 | RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics |  Yuan *et al.* | CoRL 2024 | [paper](https://arxiv.org/pdf/2406.10721) | [code](https://github.com/wentaoyuan/RoboPoint) |
 | Spatially Visual Perception for End-to-End Robotic Learning | Davies *et al.* | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.17458) | / |
