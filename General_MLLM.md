@@ -1,6 +1,7 @@
+
+### Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 ---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
-| ***Benchmark and Dataset*** |||||
 | Does Spatial Cognition Emerge in Frontier Models? | Ramakrishnan *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/pdf/2410.06468) | / |
 | Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models | Wang *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2406.14852) | [code](https://github.com/jiayuww/SpatialEval) |
 | Visual Spatial Reasoning | Liu *et al.* | TACL Volume 11 2023 | [paper](https://arxiv.org/pdf/2205.00363) | [code](https://github.com/cambridgeltl/visual-spatial-reasoning) |
@@ -24,13 +25,19 @@
 | Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models | Wang *et al.* | CVPR 2025 | [paper](https://arxiv.org/abs/2502.08636) | [code](https://github.com/XingruiWang/Spatial457) |
 | SpartQA: A Textual Question Answering Benchmark for Spatial Reasoning | Mirzaee *et al.* | NAACL 2021 | [paper](https://arxiv.org/abs/2104.05832) | [code](https://github.com/HLR/SpartQA_generation) |
 | SpatialSense: An Adversarially Crowdsourced Benchmark for Spatial Relation Recognition | Yang *et al.* | ICCV 2019 | [paper](https://arxiv.org/abs/1908.02660) | [code](https://github.com/princeton-vl/SpatialSense) |
-| ***Test-time Scaling*** |||||
+
+### Test-time Scaling
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
+---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models | Wu *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2404.03622) | [code](https://github.com/microsoft/visualization-of-thought) | 
 | I Know About "Up"! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction | Meng *et al.* | Arxiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2407.14133) | [code](https://github.com/zhouhao028/Iknow_up) | 
 | Do Large Language Models have Spatial Cognitive Abilities? | Wu *et al.* | ACM Transactions on Intelligent Systems and Technology | [paper](https://dl.acm.org/doi/abs/10.1145/3716855) | [code](https://github.com/LLING000/SCABenchmark) | 
 | Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models | Zhou *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2405.13872) | / | 
 | SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding | Wu *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2505.17012) | [code](https://github.com/haoningwu3639/SpatialScore/) | 
-| ***Post-training OR Fine-tuning*** |||||
+
+### Post-training OR Fine-tuning
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
+---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models | Feng *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2406.13948) | [code](https://github.com/tsinghua-fib-lab/CityGPT) |
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21776) | [code](https://github.com/tulerfeng/Video-R1) |
 | Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Liao *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.00883) | / |
@@ -43,15 +50,24 @@
 | Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models |  Xu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.17015) | [code](https://github.com/facebookresearch/Multi-SpatialMLLM) | 
 | SURDS: Benchmarking Spatial Understanding and Reasoning in Driving Scenarios with Vision Language Models | Guo *et al.*   | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.13112)  | [code](https://github.com/XiandaGuo/Drive-MLLM) |
 | ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | Wu *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2503.12542) | / |
-| ***Explainability*** |||||
+
+### Explainability
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
+---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models | Rajabi *et al.* | ICLR 2024 Workshop | [paper](https://arxiv.org/pdf/2308.09778) | / |
 | Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | Qi *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17349) | / |
 | Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas | Chen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.01773) | [code](https://github.com/shiqichen17/AdaptVis) | 
-| ***Architecture*** |||||
+
+### Architecture
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
+---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving | Zhang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2504.00379) | / |
 | Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs | Ranasinghe *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2404.07449) | / |
 | Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence | Wu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.23747) | [code](https://github.com/diankun-wu/Spatial-MLLM) |
-| ***More Benchmark and Dataset*** |||||
+
+### More Benchmark and Dataset
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
+---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
 | How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2503.10042) | [code](https://github.com/THUNLP-MT/EscapeCraft) |
 | ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models | Roberts *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/abs/2502.09696) | [code](https://zerobench.github.io/) |
