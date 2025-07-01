@@ -56,7 +56,9 @@
 | π0: A Vision-Language-Action Flow Model for General Robot Control | Black *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/abs/2410.24164v1) | [Code](https://github.com/Physical-Intelligence/openpi) |
 | π0.5: a Vision-Language-Action Model with Open-World Generalization | Physical Intelligence | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2504.16054) | / |
 | PointVLA: Injecting the 3D World into Vision-Language-Action Models | Li *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2503.07511) | / | 
+| ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model | Zhou *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/abs/2502.14420) | / |
 | ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge | Zhou *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/abs/2505.21906) | / |
+| BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models | Li *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/abs/2506.07961) | / |
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
 | UniSim: Learning Interactive Real-World Simulators | Yang *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2310.06114) | / |
