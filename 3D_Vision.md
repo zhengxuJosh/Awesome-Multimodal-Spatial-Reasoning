@@ -15,7 +15,7 @@
 | SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding | Rong *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.04383) | [code](https://github.com/iris0329/SeeGround) |
 | ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning | Zhenyang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.23297) | / |
 | Unveiling the mist over 3d vision-language understanding: Object-centric evaluation with chain-of-analysis | Huang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.22420) | / |
-| 3DAxisPrompt: Promoting the 3D grounding and reasoning in GPT-4o | Liu *et al.* | Neurocomputing 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225007441) | / |
+| 3DAxisPrompt: Promoting the 3D grounding and reasoning in GPT-4o | Liu *et al.* | Neurocomputing 2025 | [paper](https://arxiv.org/pdf/2503.13185) | / |
 | CityAnchor: City-scale 3D Visual Grounding with Multi-modality LLMs | Li *et al.* | ICLR 2025 | [paper](https://openreview.net/pdf?id=7nOl5W6xU4) | [code](https://github.com/WHU-USI3DV/CityAnchor) |
 | Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection | Zhu *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.01401) | [Code](https://github.com/OpenRobotLab/EaSe) |
 
