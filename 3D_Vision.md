@@ -43,7 +43,7 @@
 | Robin3D : Improving 3D Large Language Model via Robust Instruction Tuning | Kang *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/pdf/2410.00255) | [code](https://github.com/WeitaiKang/Robin3D) |
 | 3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding | Zemskova *et al.* | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.18450) | [code](https://github.com/CognitiveAISystems/3DGraphLLM) |
 | LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | Zhi *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.01292v1) | [code](https://github.com/Hoyyyaard/LSceneLLM) |
-| 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | Deng *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2501.01163) | / |
+| 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | Deng *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2501.01163) | [code](https://github.com/djiajunustc/3D-LLaVA) |
 | GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | Qi *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.01428) | [code](https://github.com/Qi-Zhangyang/gpt4scene) |
 | SplatTalk: 3D VQA with Gaussian Splatting | Zhang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.06271) | / |
 | Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning | Yu *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.00513) | [code](https://github.com/hanxunyu/Inst3D-LMM) |
