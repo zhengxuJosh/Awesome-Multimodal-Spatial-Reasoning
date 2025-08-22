@@ -32,6 +32,7 @@
 | Dynamic Path Navigation for Motion Agents with LLM Reasoning | Zhao *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.07323) | / |
 | AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning | Kong *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.07557) | / |
 | Endowing Embodied Agents with Spatial Reasoning Capabilities for Vision-and-Language Navigation | Ling *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.08806) | / |
+| NavA3: Understanding Any Instruction, Navigating Anywhere, Finding Anything | Zhang *et al.* | Arxiv 2025(Aug) | [paper](https://arxiv.org/abs/2508.04598) | [code](https://navigationa3.github.io/) |
 |  |  |  |  |  | 
 | ***Embodied Question Answering*** |||||
 | EMBOSR: Embodied Spatial Reasoning for Enhanced Situated Question Answering in 3D Scenes | Yu *et al.* | IROS 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801720) | / | 
