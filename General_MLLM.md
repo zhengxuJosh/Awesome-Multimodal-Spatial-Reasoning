@@ -34,6 +34,7 @@
 | SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding | Wu *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2505.17012) | [code](https://github.com/haoningwu3639/SpatialScore/) | 
 | Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models | Zhu *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2506.04220) | [code](https://github.com/neu-vi/struct2d) |
 | Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation | Lee *et al.* | ICCV 2025 | [paper](https://arxiv.org/pdf/2504.17207) | [code](https://github.com/KAIST-Visual-AI-Group/APC-VLM) |
+| Out of Sight, Not Out of Context? Egocentric Spatial Reasoning in VLMs Across Disjoint Frames | Ravi *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2505.24257) | / |
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
