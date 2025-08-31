@@ -35,6 +35,9 @@
 | Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models | Zhu *et al.* | Arxiv 2024 (Jun) | [paper](https://arxiv.org/pdf/2506.04220) | [code](https://github.com/neu-vi/struct2d) |
 | Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation | Lee *et al.* | ICCV 2025 | [paper](https://arxiv.org/pdf/2504.17207) | [code](https://github.com/KAIST-Visual-AI-Group/APC-VLM) |
 | Out of Sight, Not Out of Context? Egocentric Spatial Reasoning in VLMs Across Disjoint Frames | Ravi *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2505.24257) | / |
+| SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors | Ma *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2403.13438) | [code](https://github.com/dannymcy/zeroshot_task_hallucination_code) |
+| Spatial Understanding from Videos: Structured Prompts Meet Simulation Data | Zhang *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.03642) | [code](https://github.com/Hyu-Zhang/SpatialMind) |
+
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -64,6 +67,7 @@
 | Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models | Rajabi *et al.* | ICLR 2024 Workshop | [paper](https://arxiv.org/pdf/2308.09778) | / |
 | Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | Qi *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17349) | / |
 | Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas | Chen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.01773) | [code](https://github.com/shiqichen17/AdaptVis) | 
+| Can Transformers Capture Spatial Relations between Objects? | Wen *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2403.00729) | [code](https://github.com/AlvinWen428/spatial-relation-benchmark) |
 
 ### Architecture
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -73,6 +77,7 @@
 | Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence | Wu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.23747) | [code](https://github.com/diankun-wu/Spatial-MLLM) |
 | Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model | He *et al.* | Arxiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.08199) | / |
 | SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning | Liu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.12448) | [code](https://github.com/yliu-cs/SSR) |
+| SpatialBot: Precise Spatial Understanding with Vision Language Models | Cai *et al.* | ICRA 2025 | [paper](https://arxiv.org/pdf/2406.13642) | [code](https://github.com/BAAI-DCAI/SpatialBot) |
 
 ### More Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
