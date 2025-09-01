@@ -104,3 +104,5 @@
 | Stating the Obvious: Extracting Visual Common Sense Knowledge | Yatskar *et al.* | NAACL 2016 | [paper](https://aclanthology.org/N16-1023/) | / |
 | Can Multimodal Large Language Models Understand Spatial Relations? | Liu *et al.* | ACL 2025 | [paper](https://arxiv.org/pdf/2505.19015) | [code](https://github.com/ziyan-xiaoyu/SpatialMQA) |
 | SITE: towards Spatial Intelligence Thorough Evaluation | Wang *et al.* | ICCV 2025 | [paper](https://arxiv.org/pdf/2505.05456) | [code](https://github.com/wenqi-wang20/SITE-Bench) |
+| MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence | Yang *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.23764) | [code](https://github.com/InternRobotics/MMSI-Bench) |
+| NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving | Tian *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.03164) | [code](https://taco-group.github.io/NuScenes-SpatialQA/) |
