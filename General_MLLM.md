@@ -69,6 +69,7 @@
 | Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models | Qi *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.17349) | / |
 | Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas | Chen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.01773) | [code](https://github.com/shiqichen17/AdaptVis) | 
 | Can Transformers Capture Spatial Relations between Objects? | Wen *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2403.00729) | [code](https://github.com/AlvinWen428/spatial-relation-benchmark) |
+| Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics | Xu *et al.* | ACL 2025 | [paper](https://arxiv.org/abs/2502.11859v2) | / |
 
 ### Architecture
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -79,12 +80,12 @@
 | Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model | He *et al.* | Arxiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.08199) | / |
 | SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning | Liu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.12448) | [code](https://github.com/yliu-cs/SSR) |
 | SpatialBot: Precise Spatial Understanding with Vision Language Models | Cai *et al.* | ICRA 2025 | [paper](https://arxiv.org/pdf/2406.13642) | [code](https://github.com/BAAI-DCAI/SpatialBot) |
+| Spatio-Temporal LLM: Reasoning about Environments and Actions | Zheng *et al.* | Arxiv 2025 (Jul) | [paper](https://arxiv.org/pdf/2507.05258) | [code](https://github.com/zoezheng126/Spatio-Temporal-LLM) |
 
 ### More Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
 | MIRAGE: A Multi-modal Benchmark for Spatial Perception, Reasoning, and Intelligence | Liu *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2505.10604) | [code](https://github.com/khazic/Mirage) |
-| Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics | Xu *et al.* | ACL 2025 | [paper](https://arxiv.org/abs/2502.11859v2) | / |
 | Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
 | How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.10042) | [code](https://github.com/THUNLP-MT/EscapeCraft) |
 | ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models | Roberts *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.09696) | [code](https://zerobench.github.io/) |
