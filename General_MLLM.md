@@ -37,7 +37,7 @@
 | Out of Sight, Not Out of Context? Egocentric Spatial Reasoning in VLMs Across Disjoint Frames | Ravi *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2505.24257) | / |
 | SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors | Ma *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2403.13438) | [code](https://github.com/dannymcy/zeroshot_task_hallucination_code) |
 | Spatial Understanding from Videos: Structured Prompts Meet Simulation Data | Zhang *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.03642) | [code](https://github.com/Hyu-Zhang/SpatialMind) |
-
+| Visual Agentic AI for Spatial Reasoning with a Dynamic API | Marsili *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2502.06787) | [code](https://github.com/damianomarsili/VADAR) |
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -60,6 +60,7 @@
 | SpaceR: Reinforcing MLLMs in Video Spatial Reasoning | Ouyang, *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/SpaceR) |
 | Spatial Mental Modeling from Limited Views | Yin *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.21458) | [code](https://github.com/mll-lab-nu/MindCube) |
 | SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data | Ogezi *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.20648) | / |
+| M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning | Wang  *et al.* | Arxiv 2025 (Jul) | [paper](https://arxiv.org/pdf/2507.08306) | [code](https://github.com/inclusionAI/M2-Reasoning) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -102,3 +103,4 @@
 | Visual Genome: Connecting language and vision using crowdsourced dense image annotations | Krishna *et al.* | IJCV 2017 | [paper](https://arxiv.org/pdf/1602.07332) | [code](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html) |
 | Stating the Obvious: Extracting Visual Common Sense Knowledge | Yatskar *et al.* | NAACL 2016 | [paper](https://aclanthology.org/N16-1023/) | / |
 | Can Multimodal Large Language Models Understand Spatial Relations? | Liu *et al.* | ACL 2025 | [paper](https://arxiv.org/pdf/2505.19015) | [code](https://github.com/ziyan-xiaoyu/SpatialMQA) |
+| SITE: towards Spatial Intelligence Thorough Evaluation | Wang *et al.* | ICCV 2025 | [paper](https://arxiv.org/pdf/2505.05456) | [code](https://github.com/wenqi-wang20/SITE-Bench) |
