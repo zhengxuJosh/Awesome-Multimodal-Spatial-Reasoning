@@ -6,7 +6,6 @@
 | Visual Spatial Reasoning | Liu *et al.* | TACL Volume 11 2023 | [paper](https://arxiv.org/pdf/2205.00363) | [code](https://github.com/cambridgeltl/visual-spatial-reasoning) |
 | Thinking in space: How multimodal large language models see, remember, and recall spaces | Yang *et al.*   | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.14171)  | [code](https://github.com/vision-x-nyu/thinking-in-space) |  
 | From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D | Zhang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2503.22976) | [code](https://github.com/fudan-zvg/spar) |
-| LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? | Tang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19990) | [code](https://github.com/Tangkexian/LEGO-Puzzles) |
 | Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models | Stogiannidis  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19707) | [code](https://github.com/stogiannidis/srbench) | 
 | What's "up" with vision-language models? Investigating their struggle with spatial reasoning | Kamath *et al.* | EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.19785) | [code](https://github.com/amitakamath/whatsup_vlms) | 
 | TopViewRS: Vision-Language Models as Top-View Spatial Reasoners | Li *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2406.02537) | [code](https://github.com/cambridgeltl/topviewrs) | 
@@ -90,9 +89,10 @@
 | Spatio-Temporal LLM: Reasoning about Environments and Actions | Zheng *et al.* | Arxiv 2025 (Jul) | [paper](https://arxiv.org/pdf/2507.05258) | [code](https://github.com/zoezheng126/Spatio-Temporal-LLM) |
 | MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs | Daxberger *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.13111) | / |
 
-### More Benchmark and Dataset
+<!-- ### More Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
-|---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+|---------------------------------------------------------------------------------------------------|---------------|------------------|
+| LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? | Tang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19990) | [code](https://github.com/Tangkexian/LEGO-Puzzles) |----------------------------------------------|----------------------------------------------|
 | Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
 | How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.10042) | [code](https://github.com/THUNLP-MT/EscapeCraft) |
 | ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models | Roberts *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.09696) | [code](https://zerobench.github.io/) |
@@ -108,4 +108,4 @@
 | Rel3D: A Minimally Contrastive Benchmark for Grounding Spatial Relations in 3D | Goyal *et al.* | NIPS 2020 | [paper](https://arxiv.org/pdf/2012.01634) | [code](https://github.com/princeton-vl/Rel3D) |
 | Acquiring Common Sense Spatial Knowledge through Implicit Spatial Templates | Collell *et al.* | AAAI 2018 | [paper](https://arxiv.org/pdf/1711.06821) | [code](https://github.com/gcollell/spatial-commonsense) |
 | Visual Genome: Connecting language and vision using crowdsourced dense image annotations | Krishna *et al.* | IJCV 2017 | [paper](https://arxiv.org/pdf/1602.07332) | [code](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html) |
-| Stating the Obvious: Extracting Visual Common Sense Knowledge | Yatskar *et al.* | NAACL 2016 | [paper](https://aclanthology.org/N16-1023/) | / |
+| Stating the Obvious: Extracting Visual Common Sense Knowledge | Yatskar *et al.* | NAACL 2016 | [paper](https://aclanthology.org/N16-1023/) | / | -->
