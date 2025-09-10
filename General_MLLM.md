@@ -35,8 +35,7 @@
 | Spatial Understanding from Videos: Structured Prompts Meet Simulation Data | Zhang *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.03642) | [code](https://github.com/Hyu-Zhang/SpatialMind) |
 | Visual Agentic AI for Spatial Reasoning with a Dynamic API | Marsili *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2502.06787) | [code](https://github.com/damianomarsili/VADAR) |
 | Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models | Liao *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2409.09788) | [code](https://github.com/andrewliao11/Q-Spatial-Bench-code) |
-| VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search
- | Wang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.09130) | [code](https://github.com/ekonwang/VisuoThink) |
+| VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search | Wang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.09130) | [code](https://github.com/ekonwang/VisuoThink) |
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
