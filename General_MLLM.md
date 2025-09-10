@@ -15,13 +15,10 @@
 | ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models | Li *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.21500) | [code](https://github.com/ZJU-REAL/ViewSpatial-Bench) |  
 | OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models | Jia *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.03135) | [code](https://github.com/qizekun/OmniSpatial) | 
 | InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models | Deng *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.18385) | / | 
-| SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Cheng *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://www.anjiecheng.me/SpatialRGPT) |
 | BLINK: Multimodal Large Language Models Can See but Not Perceive | Fu *et al.* | Arxiv 2024(Apr) | [paper](https://arxiv.org/pdf/2404.12390) | [code](https://zeyofu.github.io/blink/) |
-| DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving | Guo *et al.* | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.13112) | [code](https://github.com/XiandaGuo/Drive-MLLM) |
 | SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities | Chen *et al.* | arxiv 2024(Jan) | [paper](https://arxiv.org/pdf/2401.12168) | [code](https://spatial-vlm.github.io/) |
 | Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models | Wang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2502.08636) | [code](https://github.com/XingruiWang/Spatial457) |
-| SpartQA: A Textual Question Answering Benchmark for Spatial Reasoning | Mirzaee *et al.* | NAACL 2021 | [paper](https://arxiv.org/pdf/2104.05832) | [code](https://github.com/HLR/SpartQA_generation) |
-| SpatialSense: An Adversarially Crowdsourced Benchmark for Spatial Relation Recognition | Yang *et al.* | ICCV 2019 | [paper](https://arxiv.org/pdf/1908.02660) | [code](https://github.com/princeton-vl/SpatialSense) |
+
 
 ### Test-time Scaling
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -38,6 +35,8 @@
 | Spatial Understanding from Videos: Structured Prompts Meet Simulation Data | Zhang *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.03642) | [code](https://github.com/Hyu-Zhang/SpatialMind) |
 | Visual Agentic AI for Spatial Reasoning with a Dynamic API | Marsili *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2502.06787) | [code](https://github.com/damianomarsili/VADAR) |
 | Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models | Liao *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2409.09788) | [code](https://github.com/andrewliao11/Q-Spatial-Bench-code) |
+| VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search
+ | Wang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.09130) | [code](https://github.com/ekonwang/VisuoThink) |
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -76,10 +75,12 @@
 | Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas | Chen *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.01773) | [code](https://github.com/shiqichen17/AdaptVis) | 
 | Can Transformers Capture Spatial Relations between Objects? | Wen *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2403.00729) | [code](https://github.com/AlvinWen428/spatial-relation-benchmark) |
 | Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics | Xu *et al.* | ACL 2025 | [paper](https://arxiv.org/abs/2502.11859v2) | / |
+| Why Do MLLMs Struggle with Spatial Understanding? A Systematic Analysis from Data to Architecture | Zhang *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/abs/2509.02359) | [code](https://github.com/WanyueZhang-ai/spatial-understanding) |
 
 ### Architecture
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models | Cheng *et al.* | NIPS 2024 | [paper](https://arxiv.org/pdf/2406.01584) | [code](https://www.anjiecheng.me/SpatialRGPT) |
 | MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving | Zhang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2504.00379) | / |
 | Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs | Ranasinghe *et al.* | CVPR 2024 | [paper](https://arxiv.org/pdf/2404.07449) | / |
 | Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence | Wu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.23747) | [code](https://github.com/diankun-wu/Spatial-MLLM) |
@@ -88,6 +89,7 @@
 | SpatialBot: Precise Spatial Understanding with Vision Language Models | Cai *et al.* | ICRA 2025 | [paper](https://arxiv.org/pdf/2406.13642) | [code](https://github.com/BAAI-DCAI/SpatialBot) |
 | Spatio-Temporal LLM: Reasoning about Environments and Actions | Zheng *et al.* | Arxiv 2025 (Jul) | [paper](https://arxiv.org/pdf/2507.05258) | [code](https://github.com/zoezheng126/Spatio-Temporal-LLM) |
 | MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs | Daxberger *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.13111) | / |
+| Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs | Tong *et al.* | NeurIPS 2024 (Oral) | [paper](https://arxiv.org/pdf/2406.16860) | [code](https://github.com/cambrian-mllm/cambrian) |
 
 <!-- ### More Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
