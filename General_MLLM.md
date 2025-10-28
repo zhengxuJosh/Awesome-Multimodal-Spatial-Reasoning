@@ -18,6 +18,7 @@
 | BLINK: Multimodal Large Language Models Can See but Not Perceive | Fu *et al.* | Arxiv 2024(Apr) | [paper](https://arxiv.org/pdf/2404.12390) | [code](https://zeyofu.github.io/blink/) |
 | SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities | Chen *et al.* | arxiv 2024(Jan) | [paper](https://arxiv.org/pdf/2401.12168) | [code](https://spatial-vlm.github.io/) |
 | Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models | Wang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2502.08636) | [code](https://github.com/XingruiWang/Spatial457) |
+| SITE: towards Spatial Intelligence Thorough Evaluation | Wang *et al.* | ICCV 2025 | [paper](https://arxiv.org/pdf/2505.05456) | [code](https://github.com/wenqi-wang20/SITE-Bench) |
 
 
 ### Test-time Scaling
@@ -32,10 +33,11 @@
 | Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation | Lee *et al.* | ICCV 2025 | [paper](https://arxiv.org/pdf/2504.17207) | [code](https://github.com/KAIST-Visual-AI-Group/APC-VLM) |
 | Out of Sight, Not Out of Context? Egocentric Spatial Reasoning in VLMs Across Disjoint Frames | Ravi *et al.* | Arxiv 2024 (May) | [paper](https://arxiv.org/pdf/2505.24257) | / |
 | SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors | Ma *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2403.13438) | [code](https://github.com/dannymcy/zeroshot_task_hallucination_code) |
-| Spatial Understanding from Videos: Structured Prompts Meet Simulation Data | Zhang *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.03642) | [code](https://github.com/Hyu-Zhang/SpatialMind) |
+| Spatial Understanding from Videos: Structured Prompts Meet Simulation Data | Zhang *et al.* | NeurIPS 2025 Spotlight | [paper](https://arxiv.org/pdf/2506.03642) | [code](https://github.com/Hyu-Zhang/SpatialMind) |
 | Visual Agentic AI for Spatial Reasoning with a Dynamic API | Marsili *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2502.06787) | [code](https://github.com/damianomarsili/VADAR) |
 | Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models | Liao *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2409.09788) | [code](https://github.com/andrewliao11/Q-Spatial-Bench-code) |
 | VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search | Wang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.09130) | [code](https://github.com/ekonwang/VisuoThink) |
+| Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | ICRA 2025 | [paper](https://arxiv.org/pdf/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -62,7 +64,6 @@
 | LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding | Li *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.08282) | [code](https://github.com/appletea233/LLaVA-ST) |
 | MIRAGE: A Multi-modal Benchmark for Spatial Perception, Reasoning, and Intelligence | Liu *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2505.10604) | [code](https://github.com/khazic/Mirage) |
 | Can Multimodal Large Language Models Understand Spatial Relations? | Liu *et al.* | ACL 2025 | [paper](https://arxiv.org/pdf/2505.19015) | [code](https://github.com/ziyan-xiaoyu/SpatialMQA) |
-| SITE: towards Spatial Intelligence Thorough Evaluation | Wang *et al.* | ICCV 2025 | [paper](https://arxiv.org/pdf/2505.05456) | [code](https://github.com/wenqi-wang20/SITE-Bench) |
 | MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence | Yang *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.23764) | [code](https://github.com/InternRobotics/MMSI-Bench) |
 | NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving | Tian *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.03164) | [code](https://taco-group.github.io/NuScenes-SpatialQA/) |
 
