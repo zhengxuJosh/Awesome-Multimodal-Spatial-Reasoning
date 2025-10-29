@@ -5,7 +5,7 @@
 | Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models | Wang *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2406.14852) | [code](https://github.com/jiayuww/SpatialEval) |
 | Visual Spatial Reasoning | Liu *et al.* | TACL Volume 11 2023 | [paper](https://arxiv.org/pdf/2205.00363) | [code](https://github.com/cambridgeltl/visual-spatial-reasoning) |
 | Thinking in space: How multimodal large language models see, remember, and recall spaces | Yang *et al.*   | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.14171)  | [code](https://github.com/vision-x-nyu/thinking-in-space) |  
-| From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D | Zhang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2503.22976) | [code](https://github.com/fudan-zvg/spar) |
+| From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D | Zhang *et al.* | NeurIPS 2025 | [paper](https://arxiv.org/pdf/2503.22976) | [code](https://github.com/fudan-zvg/spar) |
 | Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models | Stogiannidis  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19707) | [code](https://github.com/stogiannidis/srbench) | 
 | What's "up" with vision-language models? Investigating their struggle with spatial reasoning | Kamath *et al.* | EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.19785) | [code](https://github.com/amitakamath/whatsup_vlms) | 
 | TopViewRS: Vision-Language Models as Top-View Spatial Reasoners | Li *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2406.02537) | [code](https://github.com/cambridgeltl/topviewrs) | 
@@ -19,6 +19,9 @@
 | SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities | Chen *et al.* | arxiv 2024(Jan) | [paper](https://arxiv.org/pdf/2401.12168) | [code](https://spatial-vlm.github.io/) |
 | Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models | Wang *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2502.08636) | [code](https://github.com/XingruiWang/Spatial457) |
 | SITE: towards Spatial Intelligence Thorough Evaluation | Wang *et al.* | ICCV 2025 | [paper](https://arxiv.org/pdf/2505.05456) | [code](https://github.com/wenqi-wang20/SITE-Bench) |
+| OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding | Lin *et al.* | arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2507.07984) | [code](https://github.com/InternRobotics/OST-Bench) |
+| Holistic Evaluation of Multimodal LLMs on Spatial Intelligence | Cai *et al.* | arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2508.13142) | / |
+| SpatialViz-Bench: An MLLM Benchmark for Spatial Visualization | Wang *et al.* | arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2507.07610) | [code](https://github.com/wangst0181/Spatial-Visualization-Benchmark) |
 
 
 ### Test-time Scaling
@@ -66,6 +69,8 @@
 | Can Multimodal Large Language Models Understand Spatial Relations? | Liu *et al.* | ACL 2025 | [paper](https://arxiv.org/pdf/2505.19015) | [code](https://github.com/ziyan-xiaoyu/SpatialMQA) |
 | MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence | Yang *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.23764) | [code](https://github.com/InternRobotics/MMSI-Bench) |
 | NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving | Tian *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.03164) | [code](https://taco-group.github.io/NuScenes-SpatialQA/) |
+| SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models | Li *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.08531) | [code](https://github.com/ZJU-REAL/SpatialLadder) |
+| Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence | Meng *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.20579) | [code](https://github.com/marinero4972/Open-o3-Video) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -95,7 +100,7 @@
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|
 | LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? | Tang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19990) | [code](https://github.com/Tangkexian/LEGO-Puzzles) |----------------------------------------------|----------------------------------------------|
-| Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
+| Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | ICRA 2025 (Highlight) | [paper](https://arxiv.org/pdf/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
 | How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.10042) | [code](https://github.com/THUNLP-MT/EscapeCraft) |
 | ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models | Roberts *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2502.09696) | [code](https://zerobench.github.io/) |
 | LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations | Xu *et al.* | WACV 2025 | [paper](https://arxiv.org/pdf/2412.06322) | [code](https://github.com/Endlinc/LLaVA-SpaceSGG) |
