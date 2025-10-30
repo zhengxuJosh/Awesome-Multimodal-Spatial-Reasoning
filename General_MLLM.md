@@ -48,7 +48,6 @@
 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models | Feng *et al.* | KDD 2025 | [paper](https://arxiv.org/pdf/2406.13948) | [code](https://github.com/tsinghua-fib-lab/CityGPT) |
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21776) | [code](https://github.com/tulerfeng/Video-R1) |
 | Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Liao *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.00883) | / |
-| Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning | Ouyang *et al.* | Arxiv 2024 (Apr) | [pdf](https://arxiv.org/pdf/2504.01805) | [code](https://github.com/OuyangKun10/Spatial-R1) |
 | MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse | Pan *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.18470) | [code](https://github.com/PzySeere/MetaSpatial) | 
 | Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Spatial Reasoning | Tang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2410.16162) | / | 
 | ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models | Ko *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19355) | [code](https://github.com/mlvlab/ST-VLM) | 
