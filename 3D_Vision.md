@@ -47,6 +47,7 @@
 | GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | Qi *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.01428) | [code](https://github.com/Qi-Zhangyang/gpt4scene) |
 | SplatTalk: 3D VQA with Gaussian Splatting | Zhang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.06271) | / |
 | Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning | Yu *et al.* | CVPR 2025 | [paper](https://arxiv.org/pdf/2503.00513) | [code](https://github.com/hanxunyu/Inst3D-LMM) |
+| Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation | Liao *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.08673) | [code](https://github.com/KangLiao929/Puffin) |
 
 
 ### 3D Generation
