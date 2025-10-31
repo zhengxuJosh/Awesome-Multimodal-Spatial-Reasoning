@@ -3,6 +3,7 @@
 | Title | Authors | Venue/Date | Paper Link | Code | Entire/Partial | Modal | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ***Benchmark and Dataset*** |  |  |  |  |  |  |  |
+| Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation | Liao *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.08673) | https://github.com/KangLiao929/Puffin | Entire | Image-Text-Camera |  |
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21776) | https://github.com/tulerfeng/Video-R1 | Partial | Image-Text |  |
 | Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Imran Kabir *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2503.12663) | https://github.com/Imran2205/LogicRAG | Entire | Vedio-Text |  |
 | ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos | [Peiran Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu,+P) *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/abs/2503.12542) | / | Entire | Vedio-Text |  |
