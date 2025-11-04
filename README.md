@@ -76,6 +76,6 @@ If you find this project helpful, please cite:
 }
 ```
 
-## Star History
+### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)](https://www.star-history.com/#zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)
