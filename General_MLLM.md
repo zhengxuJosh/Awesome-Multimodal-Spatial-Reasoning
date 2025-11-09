@@ -41,6 +41,7 @@
 | Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models | Liao *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2409.09788) | [code](https://github.com/andrewliao11/Q-Spatial-Bench-code) |
 | VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search | Wang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.09130) | [code](https://github.com/ekonwang/VisuoThink) |
 | Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | ICRA 2025 | [paper](https://arxiv.org/pdf/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
+| Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes | Gholami *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.06266) | [code](https://github.com/vbdi/Ego3D-Bench) |
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -71,6 +72,7 @@
 | SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models | Li *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.08531) | [code](https://github.com/ZJU-REAL/SpatialLadder) |
 | Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence | Meng *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.20579) | [code](https://github.com/marinero4972/Open-o3-Video) |
 | SpaceVista: All-Scale Visual Spatial Reasoning from mm to km | Sun *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.09606) | [code](https://github.com/PeiwenSun2000/SpaceVista) |
+| Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning | Liu *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.27606) | [code](https://github.com/InternLM/Spatial-SSRL) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -95,6 +97,7 @@
 | Spatio-Temporal LLM: Reasoning about Environments and Actions | Zheng *et al.* | Arxiv 2025 (Jul) | [paper](https://arxiv.org/pdf/2507.05258) | [code](https://github.com/zoezheng126/Spatio-Temporal-LLM) |
 | MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs | Daxberger *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.13111) | / |
 | Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs | Tong *et al.* | NeurIPS 2024 (Oral) | [paper](https://arxiv.org/pdf/2406.16860) | [code](https://github.com/cambrian-mllm/cambrian) |
+| Cambrian-S: Towards Spatial Supersensing in Video | Yang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.04670) | [code](https://github.com/cambrian-mllm/cambrian-s) |
 
 <!-- ### More Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
