@@ -1,4 +1,9 @@
 # Spatial Reasoning in Audio / Video
+## Datasets
+| Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code / Data                                         | 
+|---------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------|------------------|
+| EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark | Zhang *et al.* | 2025 Oct. | [link](https://arxiv.org/pdf/2510.06218?) | - |
+
 
 ## Video
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         | 

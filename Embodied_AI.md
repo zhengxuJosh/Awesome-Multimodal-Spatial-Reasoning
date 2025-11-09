@@ -60,6 +60,7 @@
 | ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model | Zhou *et al.* | Arxiv 2025 (Feb) | [paper](https://arxiv.org/abs/2502.14420) | / |
 | ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge | Zhou *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/abs/2505.21906) | / |
 | BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models | Li *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/abs/2506.07961) | / |
+| Spatial Forcing: Implicit Spatial Representation Alignment For Vision-Language-Action Model | Li *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/abs/2510.12276) | [Code](https://spatial-forcing.github.io/) |
 |  |  |  |  |  |
 | ***Embodied World Model*** |||||
 | UniSim: Learning Interactive Real-World Simulators | Yang *et al.* | ICLR 2024 | [paper](https://arxiv.org/pdf/2310.06114) | / |

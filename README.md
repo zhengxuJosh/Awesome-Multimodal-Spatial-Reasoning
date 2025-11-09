@@ -63,3 +63,19 @@ TBD
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
+### Citations
+
+If you find this project helpful, please cite:
+
+```
+@article{zheng2025multimodal,
+  title={Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks},
+  author={Zheng, Xu and Dongfang, Zihao and Jiang, Lutao and Zheng, Boyuan and Guo, Yulong and Zhang, Zhenquan and Albanese, Giuliano and Yang, Runyi and Ma, Mengjiao and Zhang, Zixin and others},
+  journal={https://arxiv.org/abs/2510.25760},
+  year={2025}
+}
+```
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)](https://www.star-history.com/#zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)
