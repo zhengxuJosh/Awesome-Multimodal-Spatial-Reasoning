@@ -22,6 +22,7 @@
 | OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding | Lin *et al.* | arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2507.07984) | [code](https://github.com/InternRobotics/OST-Bench) |
 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence | Cai *et al.* | arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2508.13142) | / |
 | SpatialViz-Bench: An MLLM Benchmark for Spatial Visualization | Wang *et al.* | arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2507.07610) | [code](https://github.com/wangst0181/Spatial-Visualization-Benchmark) |
+| Scaling Spatial Intelligence with Multimodal Foundation Models | Cai *et al.* | arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.13719) | [code](https://github.com/OpenSenseNova/SenseNova-SI) |
 
 
 ### Test-time Scaling
@@ -73,6 +74,7 @@
 | Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence | Meng *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.20579) | [code](https://github.com/marinero4972/Open-o3-Video) |
 | SpaceVista: All-Scale Visual Spatial Reasoning from mm to km | Sun *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.09606) | [code](https://github.com/PeiwenSun2000/SpaceVista) |
 | Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning | Liu *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.27606) | [code](https://github.com/InternLM/Spatial-SSRL) |
+| Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing | Wu *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.09965) | [code](https://github.com/AntResearchNLP/ViLaSR) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
