@@ -78,6 +78,7 @@
 | Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing | Wu *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.09965) | [code](https://github.com/AntResearchNLP/ViLaSR) |
 | SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards | Batra *et al.* | NeurIPS 2025 Workshop | [paper](https://arxiv.org/pdf/2511.07403) | [code](https://github.com/hunarbatra/SpatialThinker) |
 | Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning | Huang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.16160) | [code](https://github.com/ybrrraway/Video2Layout) |
+| Visual Spatial Tuning | Yang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.05491) | [code](https://github.com/Yangr116/VST) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
