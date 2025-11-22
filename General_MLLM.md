@@ -4,7 +4,8 @@
 | Does Spatial Cognition Emerge in Frontier Models? | Ramakrishnan *et al.* | Arxiv 2024 (Oct) | [paper](https://arxiv.org/pdf/2410.06468) | / |
 | Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models | Wang *et al.* | NeurIPS 2024 | [paper](https://arxiv.org/pdf/2406.14852) | [code](https://github.com/jiayuww/SpatialEval) |
 | Visual Spatial Reasoning | Liu *et al.* | TACL Volume 11 2023 | [paper](https://arxiv.org/pdf/2205.00363) | [code](https://github.com/cambridgeltl/visual-spatial-reasoning) |
-| Thinking in space: How multimodal large language models see, remember, and recall spaces | Yang *et al.*   | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.14171)  | [code](https://github.com/vision-x-nyu/thinking-in-space) |  
+| Thinking in space: How multimodal large language models see, remember, and recall spaces | Yang *et al.*   | CVPR 2025 | [paper](https://arxiv.org/pdf/2412.14171)  | [code](https://github.com/vision-x-nyu/thinking-in-space) |
+| MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence | Yang *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.23764) | [code](https://github.com/InternRobotics/MMSI-Bench) |  
 | From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D | Zhang *et al.* | NeurIPS 2025 | [paper](https://arxiv.org/pdf/2503.22976) | [code](https://github.com/fudan-zvg/spar) |
 | Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models | Stogiannidis  *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.19707) | [code](https://github.com/stogiannidis/srbench) | 
 | What's "up" with vision-language models? Investigating their struggle with spatial reasoning | Kamath *et al.* | EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.19785) | [code](https://github.com/amitakamath/whatsup_vlms) | 
@@ -43,6 +44,7 @@
 | VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search | Wang *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.09130) | [code](https://github.com/ekonwang/VisuoThink) |
 | Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | ICRA 2025 | [paper](https://arxiv.org/pdf/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
 | Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes | Gholami *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.06266) | [code](https://github.com/vbdi/Ego3D-Bench) |
+| See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model | Li *et al.* | NeurIPS 2025 | [paper](https://arxiv.org/pdf/2509.16087) | \ |
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -68,13 +70,14 @@
 | LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding | Li *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/pdf/2501.08282) | [code](https://github.com/appletea233/LLaVA-ST) |
 | MIRAGE: A Multi-modal Benchmark for Spatial Perception, Reasoning, and Intelligence | Liu *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2505.10604) | [code](https://github.com/khazic/Mirage) |
 | Can Multimodal Large Language Models Understand Spatial Relations? | Liu *et al.* | ACL 2025 | [paper](https://arxiv.org/pdf/2505.19015) | [code](https://github.com/ziyan-xiaoyu/SpatialMQA) |
-| MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence | Yang *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.23764) | [code](https://github.com/InternRobotics/MMSI-Bench) |
 | NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving | Tian *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.03164) | [code](https://taco-group.github.io/NuScenes-SpatialQA/) |
 | SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models | Li *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.08531) | [code](https://github.com/ZJU-REAL/SpatialLadder) |
 | Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence | Meng *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.20579) | [code](https://github.com/marinero4972/Open-o3-Video) |
 | SpaceVista: All-Scale Visual Spatial Reasoning from mm to km | Sun *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.09606) | [code](https://github.com/PeiwenSun2000/SpaceVista) |
 | Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning | Liu *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.27606) | [code](https://github.com/InternLM/Spatial-SSRL) |
 | Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing | Wu *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.09965) | [code](https://github.com/AntResearchNLP/ViLaSR) |
+| SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards | Batra *et al.* | NeurIPS 2025 Workshop | [paper](https://arxiv.org/pdf/2511.07403) | [code](https://github.com/hunarbatra/SpatialThinker) |
+| Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning | Huang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.16160) | [code](https://github.com/ybrrraway/Video2Layout) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
