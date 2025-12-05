@@ -80,6 +80,7 @@
 | Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning | Huang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.16160) | [code](https://github.com/ybrrraway/Video2Layout) |
 | Visual Spatial Tuning | Yang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.05491) | [code](https://github.com/Yangr116/VST) |
 | Video Spatial Reasoning with Object-Centric 3D Rollout | Tang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.13190) | / |
+| SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL | Chen *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.04069) | [code](https://github.com/spacetools/SpaceTools) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -106,6 +107,7 @@
 | Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs | Tong *et al.* | NeurIPS 2024 (Oral) | [paper](https://arxiv.org/pdf/2406.16860) | [code](https://github.com/cambrian-mllm/cambrian) |
 | Cambrian-S: Towards Spatial Supersensing in Video | Yang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.04670) | [code](https://github.com/cambrian-mllm/cambrian-s) |
 | Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling | Cao *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.01821) | / |
+| Vision-Language Memory for Spatial Reasoning | Liu *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.20644) | [code](https://sairlab.org/vlm2/) |
 
 <!-- ### More Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
