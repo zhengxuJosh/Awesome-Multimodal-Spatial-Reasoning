@@ -24,6 +24,7 @@
 | Holistic Evaluation of Multimodal LLMs on Spatial Intelligence | Cai *et al.* | arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2508.13142) | / |
 | SpatialViz-Bench: An MLLM Benchmark for Spatial Visualization | Wang *et al.* | arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2507.07610) | [code](https://github.com/wangst0181/Spatial-Visualization-Benchmark) |
 | Scaling Spatial Intelligence with Multimodal Foundation Models | Cai *et al.* | arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.13719) | [code](https://github.com/OpenSenseNova/SenseNova-SI) |
+| MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence | Lin *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.10863) | [code](https://github.com/InternRobotics/MMSI-Video-Bench) |
 
 
 ### Test-time Scaling
@@ -81,6 +82,7 @@
 | Visual Spatial Tuning | Yang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.05491) | [code](https://github.com/Yangr116/VST) |
 | Video Spatial Reasoning with Object-Centric 3D Rollout | Tang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.13190) | / |
 | SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL | Chen *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.04069) | [code](https://github.com/spacetools/SpaceTools) |
+| SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery | Cao *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.07733) | [code](https://github.com/mengcaopku/SpatialDreamer) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -108,6 +110,7 @@
 | Cambrian-S: Towards Spatial Supersensing in Video | Yang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.04670) | [code](https://github.com/cambrian-mllm/cambrian-s) |
 | Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling | Cao *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.01821) | / |
 | Vision-Language Memory for Spatial Reasoning | Liu *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.20644) | [code](https://sairlab.org/vlm2/) |
+| G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning | Hu *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.21688) | [code](https://github.com/InternRobotics/G2VLM) |
 
 <!-- ### More Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
