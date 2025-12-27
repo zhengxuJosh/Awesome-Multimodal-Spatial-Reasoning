@@ -2,6 +2,7 @@
 
 | Title   | Authors       | Venue/Date       | Main Focus/Analysis   | Paper / GitHub Link                                         |
 |---------|---------------|------------------|-----------------------|-----------------------------------------------------|
+| Spatial Reasoning in Multimodal Large Language Models: A Survey of Tasks, Benchmarks and Methods | Liu  *et al.* | Arxiv 2025 (Nov) | A taxonomy that organizes spatial intelligence from cognitive aspect and divides tasks in terms of reasoning complexity, linking them to several cognitive functions.| [link](https://arxiv.org/pdf/2511.15722) | 
 | A Short Survey on Small Reasoning Models: Training, Inference, Applications and Research Directions | Wang *et al.* | Arxiv 2025 (Apr) | Explores small reasoning models, training, inference, and applications | [link](https://arxiv.org/pdf/2504.09100) |
 | A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems | Ke *et al.* | Arxiv 2025 (Apr) | Discusses inference scaling, learning-to-reason, and agentic systems in LLMs | [link](https://arxiv.org/pdf/2504.09037) |
 | How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM | Zha *et al.* | Arxiv 2025 (Apr) | Focuses on enabling LLMs with 3D spatial reasoning capabilities | [link](https://arxiv.org/pdf/2504.05786) |
