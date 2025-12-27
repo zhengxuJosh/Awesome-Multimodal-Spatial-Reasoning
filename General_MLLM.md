@@ -25,6 +25,8 @@
 | SpatialViz-Bench: An MLLM Benchmark for Spatial Visualization | Wang *et al.* | arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2507.07610) | [code](https://github.com/wangst0181/Spatial-Visualization-Benchmark) |
 | Scaling Spatial Intelligence with Multimodal Foundation Models | Cai *et al.* | arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.13719) | [code](https://github.com/OpenSenseNova/SenseNova-SI) |
 | MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence | Lin *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.10863) | [code](https://github.com/InternRobotics/MMSI-Video-Bench) |
+| SpatialTree: How Spatial Abilities Branch Out in MLLMs | Xiao *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.20617) | / |
+| From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs | Wu *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.19683) | [code](https://github.com/harmlessSR/OpenBench) |
 
 
 ### Test-time Scaling
