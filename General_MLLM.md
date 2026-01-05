@@ -27,6 +27,8 @@
 | MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence | Lin *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.10863) | [code](https://github.com/InternRobotics/MMSI-Video-Bench) |
 | SpatialTree: How Spatial Abilities Branch Out in MLLMs | Xiao *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.20617) | / |
 | From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs | Wu *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.19683) | [code](https://github.com/harmlessSR/OpenBench) |
+| Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis | Zhi *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.16237) | [code](https://github.com/AI9Stars/SPRITE) |
+| Spatial4D-Bench: A Versatile 4D Spatial Intelligence Benchmark | Wang *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2601.00092) | / |
 
 
 ### Test-time Scaling
