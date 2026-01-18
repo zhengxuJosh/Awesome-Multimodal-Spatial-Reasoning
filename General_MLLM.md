@@ -29,6 +29,7 @@
 | From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs | Wu *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.19683) | [code](https://github.com/harmlessSR/OpenBench) |
 | Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis | Zhi *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.16237) | [code](https://github.com/AI9Stars/SPRITE) |
 | Spatial4D-Bench: A Versatile 4D Spatial Intelligence Benchmark | Wang *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2601.00092) | / |
+| Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models | Zhan *et al.* | arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.01618) | / |
 
 
 ### Test-time Scaling
@@ -50,6 +51,7 @@
 | Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding | Kabir *et al.* | ICRA 2025 | [paper](https://arxiv.org/pdf/2503.12663) | [code](https://github.com/Imran2205/LogicRAG) |
 | Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes | Gholami *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.06266) | [code](https://github.com/vbdi/Ego3D-Bench) |
 | See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model | Li *et al.* | NeurIPS 2025 | [paper](https://arxiv.org/pdf/2509.16087) | \ |
+| Geometrically-Constrained Agent for Spatial Reasoning | Chen *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.22659) | [code](https://github.com/gca-spatial-reasoning/gca) |
 
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -87,6 +89,8 @@
 | Video Spatial Reasoning with Object-Centric 3D Rollout | Tang *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.13190) | / |
 | SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL | Chen *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.04069) | [code](https://github.com/spacetools/SpaceTools) |
 | SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery | Cao *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.07733) | [code](https://github.com/mengcaopku/SpatialDreamer) |
+| Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation | Ma *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.01984) | / |
+| Euclid's Gift: Enhancing Spatial Perception and Reasoning in Vision-Language Models via Geometric Surrogate Tasks | Lian *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.24473) | [code](https://github.com/LiamLian0727/Euclids_Gift) |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -115,6 +119,7 @@
 | Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling | Cao *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.01821) | / |
 | Vision-Language Memory for Spatial Reasoning | Liu *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.20644) | [code](https://sairlab.org/vlm2/) |
 | G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning | Hu *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.21688) | [code](https://github.com/InternRobotics/G2VLM) |
+| SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models | Zhao *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.23075) | / |
 
 <!-- ### More Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
