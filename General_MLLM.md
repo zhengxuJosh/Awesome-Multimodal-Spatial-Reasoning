@@ -1,6 +1,8 @@
 ### Benchmark and Dataset
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| CityCube: Benchmarking Cross-view Spatial Reasoning on Vision-Language Models in Urban Environments | Xu *et al.* | arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.14339) | / |
+| SpatiaLab: Can Vision-Language Models Perform Spatial Reasoning in the Wild? | Wasi *et al.* | arxiv 2026 (Feb) | [paper](https://arxiv.org/pdf/2602.03916) | [code](https://github.com/SpatiaLab-Reasoning/SpatiaLab) |
 | Spatial4D-Bench: A Versatile 4D Spatial Intelligence Benchmark | Wang *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2601.00092) | / |
 | MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence | Lin *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.10863) | [code](https://github.com/InternRobotics/MMSI-Video-Bench) |
 | SpatialTree: How Spatial Abilities Branch Out in MLLMs | Xiao *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.20617) | / |
@@ -56,6 +58,7 @@
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps | Gao *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.11442) | / |
 | Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation | Ma *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.01984) | / |
 | Think3D: Thinking with Space for Spatial Reasoning | Zhang *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.13029) | [code](https://github.com/zhangzaibin/spagent) |
 | SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL | Chen *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.04069) | [code](https://github.com/spacetools/SpaceTools) |
