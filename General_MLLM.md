@@ -30,7 +30,8 @@
 | Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis | Zhi *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.16237) | [code](https://github.com/AI9Stars/SPRITE) |
 | Spatial4D-Bench: A Versatile 4D Spatial Intelligence Benchmark | Wang *et al.* | arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2601.00092) | / |
 | Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models | Zhan *et al.* | arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.01618) | / |
-
+| CityCube: Benchmarking Cross-view Spatial Reasoning on Vision-Language Models in Urban Environments | Xu *et al.* | arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.14339) | / |
+| SpatiaLab: Can Vision-Language Models Perform Spatial Reasoning in the Wild? | Wasi *et al.* | arxiv 2026 (Feb) | [paper](https://arxiv.org/pdf/2602.03916) | [code](https://github.com/SpatiaLab-Reasoning/SpatiaLab) |
 
 ### Test-time Scaling
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
@@ -92,6 +93,7 @@
 | Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation | Ma *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.01984) | / |
 | Euclid's Gift: Enhancing Spatial Perception and Reasoning in Vision-Language Models via Geometric Surrogate Tasks | Lian *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.24473) | [code](https://github.com/LiamLian0727/Euclids_Gift) |
 | Think3D: Thinking with Space for Spatial Reasoning | Zhang *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.13029) | [code](https://github.com/zhangzaibin/spagent) |
+| Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps | Gao *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.11442) | / |
 
 ### Explainability
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
