@@ -3,6 +3,7 @@
 | Title | Authors | Venue/Date | Paper Link | Code | Entire/Partial | Modal | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ***Benchmark and Dataset*** |  |  |  |  |  |  |  |
+| Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text | Wang *et al.* | Arxiv 2026 (Jul) | [paper](https://arxiv.org/abs/2607.21072) | https://github.com/ZJU-OmniAI/ProVisE | Entire | Image-Text | Unified evaluation of image-generation models and VLMs |
 | Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation | Liao *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.08673) | https://github.com/KangLiao929/Puffin | Entire | Image-Text-Camera |  |
 | From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes | Wang *et al.* | NeurIPS 2025 | [paper](https://arxiv.org/abs/2506.04897) | https://anywhere-3d.github.io/ | Entire | Image-Text |  |
 | Video-R1: Reinforcing Video Reasoning in MLLMs | Feng *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.21776) | https://github.com/tulerfeng/Video-R1 | Partial | Image-Text |  |
