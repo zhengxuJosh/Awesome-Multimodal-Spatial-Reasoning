@@ -59,6 +59,7 @@
 ### Post-training OR Fine-tuning
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World | Yao *et al.* | Arxiv 2026 (Sep) | [paper](https://arxiv.org/abs/2609.23038) | [code](https://github.com/ZJU-OmniAI/Spatial-Interactor) |
 | Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps | Gao *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.11442) | / |
 | Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation | Ma *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.01984) | / |
 | Think3D: Thinking with Space for Spatial Reasoning | Zhang *et al.* | Arxiv 2026 (Jan) | [paper](https://arxiv.org/pdf/2601.13029) | [code](https://github.com/zhangzaibin/spagent) |
