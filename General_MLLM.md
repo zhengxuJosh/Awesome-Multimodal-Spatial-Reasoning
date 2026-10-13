@@ -37,6 +37,7 @@
 ### Test-time Scaling
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds | Kaesberg *et al.* | EMNLP 2026 (Findings) | [paper](https://arxiv.org/pdf/2608.21170) | / |
 | When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning | Yu *et al.* | arxiv 2026 (Feb) | [paper](https://arxiv.org/pdf/2602.08236) | [code](https://github.com/Yui010206/Adaptive-Visual-Imagination-Control/) |
 | Geometrically-Constrained Agent for Spatial Reasoning | Chen *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.22659) | [code](https://github.com/gca-spatial-reasoning/gca) |
 | Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes | Gholami *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.06266) | [code](https://github.com/vbdi/Ego3D-Bench) |
