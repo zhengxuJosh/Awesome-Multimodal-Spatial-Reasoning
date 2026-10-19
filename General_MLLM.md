@@ -37,6 +37,7 @@
 ### Test-time Scaling
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| Reasoning with Image Generation | Singhi *et al.* | arxiv 2026 (Sep) | [paper](https://arxiv.org/pdf/2609.16409) | / |
 | When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning | Yu *et al.* | arxiv 2026 (Feb) | [paper](https://arxiv.org/pdf/2602.08236) | [code](https://github.com/Yui010206/Adaptive-Visual-Imagination-Control/) |
 | Geometrically-Constrained Agent for Spatial Reasoning | Chen *et al.* | Arxiv 2025 (Nov) | [paper](https://arxiv.org/pdf/2511.22659) | [code](https://github.com/gca-spatial-reasoning/gca) |
 | Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes | Gholami *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.06266) | [code](https://github.com/vbdi/Ego3D-Bench) |
