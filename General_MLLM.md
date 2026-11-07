@@ -110,6 +110,7 @@
 ### Architecture
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                   | Code                                         |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------------------------|----------------------------------------------|
+| MJev-Spatial: System One Spatial Intelligence via Native Attention Matching | Qin *et al.* | Arxiv 2026 (Oct) | [paper](https://arxiv.org/abs/2610.22276) | [code](https://github.com/Fr0zenCrane/MJev-Spatial) |
 | Chatting with Images for Introspective Visual Thinking | Wu *et al.* | Arxiv 2026 (Feb) | [paper](https://arxiv.org/pdf/2602.11073) | [code](https://github.com/AntResearchNLP/ViLaVT) |
 | Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning | Zhang *et al.* | Arxiv 2026 (Feb) | [paper](https://arxiv.org/pdf/2602.06041) | / |
 | Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models | Zhou *et al.* | Arxiv 2025 (Dec) | [paper](https://arxiv.org/pdf/2512.20557) | [code](https://github.com/TencentARC/DSR_Suite) |
